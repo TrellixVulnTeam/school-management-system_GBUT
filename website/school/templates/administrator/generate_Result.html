@@ -1,0 +1,49 @@
+{% extends 'administrator/base.html' %}
+{% block text %}
+
+<!-- <li>{{i}} > {{i.average}}> {{i.position}}</li> -->
+
+
+
+
+<h3>
+	Results for 
+	Session: {{s}}<br>
+	Term : {{t}}
+</h3>
+
+<table class="table table-condensed">
+    <thead>
+      <tr>
+        <th>Surname</th>
+        <th>First Name</th>
+        <th>Middle Name</th>
+        <th>Reg Number</th>
+        <th>Position</th>
+        <th>Total</th>
+        <th>Grade</th>
+	  <th>Percentage</th>
+	  <th>Total Subjects</th>
+	  
+      </tr>
+    </thead>
+    <tbody>
+    {% for i in result %}
+      <tr>
+		<td>{{i.surname}}</td>
+		<td>{{i.first_name}}</td>
+		<td>{{i.middle_name}}</td>
+		<td>{{i.Registration_Number}}</td>
+		<td>{{i.position}}</td>
+		<td>{{i.average}}</td>
+		<td>{{i.grade}}</td>
+      <td>{{i.percentage}}%</td>
+      <td>{{i.total_subject}}</td>
+      </tr>
+    {% endfor %}
+
+
+    </tbody>
+  </table>
+
+{% endblock %}

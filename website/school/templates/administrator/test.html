@@ -1,0 +1,107 @@
+{% extends 'administrator/base.html' %}
+{% block body %}
+
+<form action="{% url 'administrator:kg1' %}" method="POST">{% csrf_token %}
+
+<table>
+  <tr>
+
+    <td><select name='select_session' style="width: 150px;">
+      <option>2016-2017</option>
+      <!-- <option>Select Session</option>
+      {% for i in select_session %}
+      <option>{{i.session}}</option>  
+      {% endfor %}    
+      </select> -->
+    </td>
+
+
+<td>
+    <select name='select_class' style="width: 150px;">
+<!--       <option> Select Class</option> -->
+      <option>kg1</option> 
+      <option>kg2</option> 
+      <option>kg3</option> 
+      <option>kg1</option> 
+      <option>pry1</option> 
+      <option>pry2</option> 
+      <option>pry3</option> 
+      <option>pry4</option> 
+      <option>pry5</option> 
+      <option>pry6</option> 
+      <option>jss1</option> 
+      <option>jss2</option> 
+      <option>jss3</option> 
+      <option>sss1</option> 
+      <option>sss2</option> 
+      <option>sss3</option>       
+    </select>
+</td>
+<td>
+
+    <select name='select_subject' style="width: 150px;">
+    <option>Select Subject</option>
+    <option>MATHEMATICS</option>
+    <option>ENGLISH LANGUAGE</option>
+    <option>VERBAL REASONING</option>
+    <option>QUANTITATIVE REASONING</option>
+    <option>EDO LANGUAGE</option>
+    <option>FRENCH LANGUAGE</option>
+    <option>BASIC TECH</option>
+    <option>BASIC SCIENCE</option>
+    <option>C.R.S</option>
+    <option>P.H.E</option>
+    <option>SOCIAL STUDIES</option>
+    <option>BUSINESS STUDIES</option>
+    <option>AGRICULTURAL SCIENCE</option>
+    <option>PHYSICS</option>
+    <option>CHEMISTRY</option>
+    <option>BIOLOGY</option>
+    <option>LITERATURE</option>    
+    <option>ECONOMICS</option>
+    <option>CIVIC EDUCATION</option>
+    <option>GEOGRAPHY</option>
+    
+
+    </select>
+</td>
+
+    <td><input type="submit" value="Go"></td>
+  </tr>
+</table>
+  
+</form>
+ 
+
+<div class="container">
+  <h2>2017/2018 > Kg1 > Mathematics</h2>
+<table class="table table-condensed">
+    <thead>
+      <tr>
+        <th>Names</th>
+        <th>1st Test</th>
+        <th>2nd Test</th>
+        <th>Exam</th>
+        <th>Total</th>
+        <th>Submit</th>
+      </tr>
+    </thead>
+    <tbody>
+
+
+      <tr>
+      <form class="form-horizontal">
+        <td>Mary</td>
+        <td>Moe</td>
+        <td>mary@example.com</td>
+        </form>
+        
+      </tr>
+
+    </tbody>
+  </table>
+
+</div>
+
+{% endblock %}
+

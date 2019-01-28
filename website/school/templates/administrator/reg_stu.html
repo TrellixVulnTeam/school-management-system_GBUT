@@ -1,0 +1,42 @@
+
+{% load crispy_forms_tags %}
+
+
+
+
+
+<form action="{% url 'administrator:test' %}" method="POST">{% csrf_token %}
+
+<table>
+  <tr>
+    <td> 
+      <select name='class1' style="width: 150px;">      
+      <option>Select a class</option>
+      {% for i in class1 %}
+        <option>{{i}}</option>
+      {% endfor %}      
+      </select>
+
+     <select name='session' style="width: 150px;">
+      <option>Select a session</option>
+      {% for i in session %}
+        <option>{{i}}</option>
+      {% endfor %}
+      
+      </select>
+     <select name='term' style="width: 150px;">
+      
+      
+      <option>Select a term</option>
+      {% for i in term %}
+        <option>{{i}}</option>
+      {% endfor %}
+      
+      </select>
+     
+    </td>
+    <td><input type="submit" value="Go"></td>
+  </tr>
+</table>
+  
+</form>

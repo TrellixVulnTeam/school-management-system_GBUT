@@ -1,0 +1,87 @@
+{% extends 'administrator/base.html' %}
+{% block body %}
+
+{% load crispy_forms_tags %}
+
+
+
+
+
+
+
+
+
+{% if messages %}
+<ul class="messages">
+{% for message in messages %}
+<li {% if message.tags %} class="{{message.tags}}" {% endif %} >{{message}}</li>
+	{% endfor %}
+</ul>
+{% endif %}
+<form action="{% url 'administrator:student_class' %}" method="POST">{% csrf_token %}
+
+<table>
+  
+
+    
+    <td>
+    
+      <select name='session1' style="width: 150px;">      
+      <option>Select session</option>
+      {% for i in session1 %}
+        <option>{{i}}</option>
+      {% endfor %}      
+      </select>
+<select name='term1' style="width: 150px;">      
+      <option>Select Term</option>
+      {% for i in term1 %}
+        <option>{{i}}</option>
+      {% endfor %}      
+      </select>
+
+    <select name='class1' style="width: 150px;">      
+      <option>Select class</option>
+      {% for i in class1 %}
+        <option>{{i}}</option>
+      {% endfor %}      
+      </select>
+    <select name='subject1' style="width: 150px;">      
+      <option>Select subject</option>
+      {% for i in subject1 %}
+        <option>{{i}}</option>
+      {% endfor %}      
+      </select>
+     
+    </td>
+    <td><input type="submit" value="Go"></td>
+  
+</table>  
+</form>
+
+
+<table>
+  
+
+    
+    <td>
+    
+       session:{{session}}, class:{{classname}}, subject:{{subject}}, term:{{term}}
+     
+    </td>
+  
+  
+</table> 
+
+<!-- 
+<form method="POST">{% csrf_token %}
+
+  {{form|crispy}} 
+
+ 
+  <button type="submit" class="btn btn-primary ">Add</button> 
+  
+</form> 
+ -->
+
+
+{% endblock %}

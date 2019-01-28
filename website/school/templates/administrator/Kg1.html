@@ -1,0 +1,120 @@
+{% extends 'administrator/base.html' %}
+{% block body %}
+<h1>{{select_class}}</h1>
+
+<input style="visibility:hidden;" value={{ csrf_token }} id="myToken" />
+<input style="visibility:hidden;" value={{ studentId }} id="studentId" />
+<input style="visibility:hidden;" value={{ sessionId }} id="sessionId" />
+
+<div class="table-responsive">
+  <table class="table"> 
+    <thead>
+      <tr>
+<!--         <th>#</th> -->
+        <th>Name/Reg_no</th>
+        <th>1st Test</th>
+        <th>2nd Test</th>
+        <th>Exam</th>
+        <th>Total</th>
+        <th>Update</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for i in kgc %}
+
+      <tr>
+
+        <td>{{i.add_student2}}</td>
+        <td>Pitt</td>
+        <td>35</td>
+        <td>New York</td>
+        <td>USA</td>
+        <td><button type="button" class="btn btn-info btn-lg" onclick="CollectCelebrity('{{i.id}}')" data-toggle="modal" data-target="#myModal">Open</button></td>
+      </tr>
+      {% endfor %} 
+    </tbody>
+  </table>
+  </div>
+
+
+<!-- <ul>
+{% for i in kgc %}
+<li>{{i.add_student2}} ><button type="button" class="btn btn-info btn-lg" onclick="CollectCelebrity('{{i.id}}')" data-toggle="modal" data-target="#myModal">Open</button></li>
+{{i.id}}
+{% endfor %} 
+</ul>
+ -->
+
+
+<!-- Trigger the modal with a button -->
+<!-- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title" id='detail'>Reg Number And Name</h4>
+      </div>
+      <div class="modal-body">
+        <p id="session">Add Details</p>
+        <p id="test"></p>
+ 
+        <form method="POST">
+        
+        <input type="number" name="first_test" required id="id_first_test" />
+        <input type="number" name="second_test" required id="id_second_test" />
+        <input type="number" name="exam" required id="id_exam" />
+
+
+        </form> 
+<!--         <form name="myForm" action="" method="post">{% csrf_token %}
+Name: <input type="text" name="fname">
+<input type="submit" onclick="validateForm()" value="Submit">
+</form> -->
+<!-- 
+            <table class="table table-condensed">
+            <thead>
+            <tr>
+            
+            <th>First Test</th>
+            <th>Second Test</th>
+            <th>Exam</th>
+            <th>Total</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <td>
+
+
+
+            </td>
+            <td>
+           
+            </td>
+            <td>
+
+            </td>
+            <td>100</td>
+            </tr>
+            
+            </tbody>
+            </table> -->
+        
+      </div>
+      <div class="modal-footer">
+        <button type="submit" onclick="Collect()" class="btn btn-primary">Submit</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+{% endblock %}
+
+

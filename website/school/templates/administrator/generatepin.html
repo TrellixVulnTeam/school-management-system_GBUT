@@ -1,0 +1,40 @@
+{% extends 'administrator/base2.html' %}
+
+{% block body %}
+<form action="{% url 'administrator:pin' %}" method="POST">{% csrf_token %}
+Select class:
+    <select name='select_class' style="width: 150px;">
+      <option>kg1</option> 
+      <option>kg2</option> 
+      <option>kg3</option> 
+      <option>kg1</option> 
+      <option>pry1</option> 
+      <option>pry2</option> 
+      <option>pry3</option> 
+      <option>pry4</option> 
+      <option>pry5</option> 
+      <option>pry6</option> 
+      <option>jss1</option> 
+      <option>jss2</option> 
+      <option>jss3</option> 
+      <option>sss1</option> 
+      <option>sss2</option> 
+      <option>sss3</option>       
+    </select>
+
+Select session: 
+
+    <select name='select_session' style="width: 150px;">
+	{% for i in session %}
+      <option>{{i.date}}</option> 	
+     {% endfor %}
+    </select>
+
+   <input type="submit" value="Go">
+ 
+</form>
+
+
+
+
+{% endblock %}

@@ -1,0 +1,37 @@
+<table class="table table-condensed">
+    <thead>
+      <tr>
+        <th>Reg_No/Names</th>
+        <th>1st Test</th>
+        <th>2nd Test</th>
+        <th>Exam</th>
+        <th>Total</th>
+        <th>Submit</th>
+      </tr>
+    </thead>
+    <tbody>
+
+{% for i in kgc %}
+<tr><form method="POST">{% csrf_token %}
+<td>{{i.add_student2}}</td>
+<td>{{form.second_test}}</td>
+<td>{{form.exam}}</td>
+<td>{{form.first_test}}</td>
+<td>100</td>
+<td><input class="btn btn-primary" type="submit" value="Submit" name=""></td>
+</form>
+</tr>  {% endfor %}
+
+    </tbody>
+  </table>{{ url 'administrator:upload_result' qs.id }}
+              <div class="form-group">
+            <div class="">
+            <input type="text" class="form-control" id="email" placeholder="Enter Second Test">
+            </div>
+            </div> 
+
+                        <div class="form-group">
+            <div class="">
+            <input type="text" class="form-control" id="email" placeholder="Enter Exam">
+            </div>
+            </div>

@@ -1,0 +1,237 @@
+{% extends 'administrator/base2.html' %}
+{% load crispy_forms_tags %}
+{% load staticfiles %}
+{% block body %}
+<div class="container">
+	
+
+<div class="row">
+<div class="col-md-12">
+
+{% if messages %}
+<ul class="messages">
+    {% for message in messages %}
+    <li {% if message.tags %} class="{{message.tags}}" {% endif %}> {{message}} </li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+
+
+<center><h2>Result</h2></center>
+<div>
+	<h3>School Name</h3>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12">
+{% for i in image %}
+<img src="{{i.image.path}}"  alt="logo">
+{% endfor %}
+<br>
+<p>Name of student: {{result.surname}} {{result.first_name}} {{result.middle_name}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Registration Number: {{result.Registration_Number}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sex: {{result.sex}}</p><hr>
+<p>Session: {{result.current_session}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Term: {{result.current_term}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class: {{result.current_class}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No In Class: {{total_student}}</p><hr> 
+<p>No Of Times School Opened: 100 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No Of Times Present: 99 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No Of Times Absent: 1</p>
+<hr>
+<table class="table table-condensed table-bordered">
+    <thead>
+      <tr>
+        <th>Subjects</th>
+        <th>1st Test</th>
+        <th>2nd Test</th>
+        <th>Exam</th>
+        <th>Total</th>
+        
+        <th>Grade</th>
+
+
+      </tr>
+    </thead>
+    <tbody>
+    
+      
+   {% for i in record %}
+        <tr>
+        <td>{{i.subject}}</td>
+        <td>{{i.first_test}}</td>
+        <td>{{i.second_test}}</td>
+        <td>{{i.exam}}</td>
+        <td>{{i.average}}</td>
+        
+        <td>{{i.grade}}</td>
+        </tr>
+    {% endfor %}
+      
+    
+<!-- <tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr>
+    
+<tr>
+   
+        <td>Maths</td>
+        <td>20</td>
+        <td>20</td>
+        <td>60</td>
+        <td>100</td>
+        <td>100%</td>
+        <td>A</td>
+      </tr> -->
+    
+
+
+    </tbody>
+  </table>
+
+
+
+</div> </div>
+
+
+
+<div class="row">
+<div class="col-md-12">
+
+<form action="{% url 'administrator:get_your_copy' %}" method="POST">{% csrf_token %}
+<select name="reg" style="display: none;">
+    <option>{{reg}}</option>
+</select>
+
+<select name="pin" style="display: none;">
+ <option>{{pin}}</option>   
+</select>
+<button type="submit">Donload Pdf</button>
+<!-- <input type="submit" name="generate" value="Donload Pdf"> -->
+
+</form>
+{{post}}
+<p>Position: {{result.position}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Grade: {{result.grade}}  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Score: {{result.average}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Percentage: {{result.percentage}}%</p>
+<p>	Class Teacher's Remark:</p>
+<p>	Principal Remark: </p>
+<p>Next Term Begins: 7th Jan, 2019</p>
+
+</div></div>
+
+
+</div>
+<!-- end of container fluid -->
+{% endblock %}

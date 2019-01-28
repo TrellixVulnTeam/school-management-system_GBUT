@@ -1,0 +1,32 @@
+{% extends 'administrator/base.html' %}
+{% block text %}
+Generate Result for: 
+Session: {{current_session.session}}<br>
+Term: {{term.term.term}}<br>
+
+Select class: <form action="{% url 'administrator:generate_Result' %}" method="POST">{% csrf_token %}
+    <select name='select_class' style="width: 150px;">
+<!--       <option> Select Class</option> -->
+      <option>kg1</option> 
+      <option>kg2</option> 
+      <option>kg3</option> 
+      <option>kg1</option> 
+      <option>pry1</option> 
+      <option>pry2</option> 
+      <option>pry3</option> 
+      <option>pry4</option> 
+      <option>pry5</option> 
+      <option>pry6</option> 
+      <option>jss1</option> 
+      <option>jss2</option> 
+      <option>jss3</option> 
+      <option>sss1</option> 
+      <option>sss2</option> 
+      <option>sss3</option>       
+    </select>
+
+   <input type="submit" value="Go">
+ 
+</form>
+
+{% endblock %}
