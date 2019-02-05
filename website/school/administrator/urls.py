@@ -15,7 +15,8 @@ urlpatterns = [
 	path('add_result/', views.add_result, name='add_result'),
 	path('query_result/', views.query_result, name='query_result'),
 	path('query_general_result/', views.query_general_result, name='query_general_result'),
-	path('generate_Result/', views.generate_Result, name='generate_Result'),
+	path('generate_average/', views.generate_average, name='generate_Result'),
+	path('generate_result/', views.generate_result, name='generate_result'),
 	path('add_student_result/<slug:pk>/', views.add_student_result, name='add_student_result'),
 	path('term/', views.term, name='term'),
 	path('addterm/', views.add_term, name='add_term'),
@@ -25,7 +26,23 @@ urlpatterns = [
 	path('student_result/', views.student_result, name='student_result'),
 	path('generatepin/', views.generatepin, name='generatepin'),
 	path('pdf/', views.get_your_copy, name='get_your_copy'),
-	path('news/', views.NewsUpdate, name='news_update'),
+	path('updatenews/', views.NewsUpdate, name='news_update'),
+	path('generate_course/', views.generate_course, name='generate_course'),
+	path('promote/', views.QueryPromoteStudent, name='promote'),
+	path('promote_student/', views.PromoteStudent, name='promote_student'),
+	path('query_student/', views.query_student, name='query_student'),
+	path('students/', views.students, name='students'),
+	path('edit_student/<slug:id>/', views.edit_student, name='edit_student'),
+	path('news/', views.news, name='news'),
+	path('news/<slug:slug>/', views.newsdetails, name='newsdetails'),
+	path('deletenews/<slug:slug>/', views.deletenews, name='deletenews'),
+	path('editnews/<slug:slug>/', views.editnews, name='editnews'),
+
+	path('query_student_term/', views.query_student_term, name='query_student_term'),
+	path('change_student_term/', views.change_student_term, name='change_student_term'),
+	path('select_student/', views.select_student, name='select_student'),
+
+
 
 
 ]

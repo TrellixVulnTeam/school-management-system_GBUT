@@ -1,0 +1,74 @@
+{% extends 'administrator/base.html' %}
+{% load crispy_forms_tags %}
+{% block text %}
+
+{% if messages %}
+<ul class="messages">
+{% for message in messages %}
+<li class="{{ message.tags }} well">{{ message }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+<form action="{% url 'administrator:change_student_term' %}" method="POST">{% csrf_token %}
+
+<table>
+
+	<h4>Change Term From</h4>
+  <h4>Current Session: {{current_session.session}}</h4>
+  <tr>
+    <td> 
+
+
+     <select name='from_class' style="width: 150px;">
+      <option>kg1</option> 
+      <option>kg2</option> 
+      <option>kg3</option> 
+      <option>kg1</option> 
+      <option>pry1</option> 
+      <option>pry2</option> 
+      <option>pry3</option> 
+      <option>pry4</option> 
+      <option>pry5</option> 
+      <option>pry6</option> 
+      <option>jss1</option> 
+      <option>jss2</option> 
+      <option>jss3</option> 
+      <option>sss1</option> 
+      <option>sss2</option> 
+      <option>sss3</option>       
+    </select>   
+    </td>
+    
+  </tr>
+</table>
+  <hr>
+  <hr>
+
+
+
+
+
+  <table>
+  <tr>
+    <td> 
+    	<h4>Change Term To</h4>
+
+
+     <select name='to_term' style="width: 150px;">      
+      <option>Select a term</option>
+      {% for i in all_terms %}
+        <option>{{i.term}}</option>
+      {% endfor %}      
+      </select>     
+    </td>
+    
+  </tr>
+
+</table>
+<hr>
+<hr>
+  <input type="submit" value="Change">
+</form>
+
+{% endblock %}

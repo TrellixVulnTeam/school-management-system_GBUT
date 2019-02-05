@@ -1,6 +1,14 @@
 {% extends 'administrator/base.html' %}
 {% block text %}
 {% load crispy_forms_tags %}
+
+{% if messages %}
+<ul class="messages">
+{% for message in messages %}
+<li class="{{ message.tags }} well">{{ message }}</li>
+{% endfor %}
+</ul>
+{% endif %}
 <form action="{% url 'administrator:add_result' %}" method="POST">{% csrf_token %}
 
 <table>

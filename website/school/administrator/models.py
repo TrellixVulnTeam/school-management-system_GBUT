@@ -1,17 +1,18 @@
 from django.db import models
 from django.utils.functional import cached_property
+from django.utils.text import slugify
 
 
 class Session(models.Model):
 
-	date = models.CharField(max_length=20)
+	date = models.CharField(max_length=20, unique=True)
 
 	def __str__(self):
 		return self.date
 class CurrentSession(models.Model):
 	session = models.ForeignKey(Session, on_delete=models.CASCADE)
-	def __str__(self):
-		return self.session
+	# def __str__(self):
+	# 	return self.session
 
 class Myclass(models.Model):
 
@@ -78,7 +79,7 @@ class Student(models.Model):
 
 
 	def __str__(self):
-		return self.surname
+		return self.Registration_Number
 
 
 
@@ -102,7 +103,7 @@ class Subject(models.Model):
 
 class Student_subject(models.Model):
 
-	student = models.ForeignKey(Student, on_delete = models.CASCADE)
+	student = models.ForeignKey(Student, on_delete = models.CASCADE, default=0)
 	Registration_Number = models.CharField(max_length=50)
 	subject = models.ForeignKey(Subject, on_delete = models.CASCADE)
 	session = models.ForeignKey(Session, on_delete=models.CASCADE, default=1)
@@ -133,6 +134,7 @@ class GeneralResult(models.Model):
 	position = models.CharField(max_length=500, default='')
 	total_subject = models.CharField(max_length=30, default='')
 	percentage = models.CharField(max_length=3, default='') 
+	active =  models.BooleanField(default=True)
 	def __str__(self):
 		return self.surname 
 
@@ -150,13 +152,21 @@ class GeneratePin(models.Model):
 class SchoolLogo(models.Model):
 	image = models.FileField()
 
-class NewsUpdate(models.Model):
+
+
+class News(models.Model):
+	choices = (('published', 'published'), 
+		('draft', 'draft')
+		)
 	title = models.CharField(max_length=50)
 	body = models.TextField()
+	status = models.CharField(max_length=15, choices=choices, default='published')
 	created = models.DateTimeField(auto_now_add = True)
 	updated = models.DateTimeField(auto_now = True)
+	slug = models.SlugField()
+	def save(self, *args, **kwargs):
+		self.slug = slugify(self.title)
+		super (News, self).save(*args, **kwargs)
+	def __str__(self):
+		return self.slug
 
-	#from django.utils.text import slugify
-	# def save(self, *args, **kwargs):
-	# 	self.address_slug = slugify(self.address)
-	# 	super (Location, self).save(*args, **kwargs)

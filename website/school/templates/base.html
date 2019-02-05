@@ -28,6 +28,24 @@
 <!--     <link rel='stylesheet' id='camera-css'  href='assets/css/camera.css' type='text/css' media='all'>  -->
   <link rel="stylesheet" id='camera-css'  href="{% static 'assets/css/camera.css' %}" type='text/css' media='all'>
 
+  <style>
+      @media only screen and (min-width: 768px) {
+    /* For desktop: */}
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    #logo{
+      margin-top: 2px;
+    }
+
+}
+
+
+
+
+  </style>
+
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
   <script src="assets/js/html5shiv.js"></script>
@@ -40,6 +58,8 @@
 {% url 'index:price' as price %}
 {% url 'index:news' as news %}
 {% url 'administrator:student_result' as student_result %}
+{% url 'index:gallery' as gallery %}
+
 </head>
 <body>
   <!-- Fixed navbar -->
@@ -49,7 +69,8 @@
         <!-- Button for smallest screens -->
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
         <a class="navbar-brand" href="{% url 'index:index' %}">
-        <img src="{% static 'assets/images/logo.png' %}"  alt="logo">
+          <img src="{% static 'img/Creamcreast.png' %}"  alt="logo" style="" id="logo">
+        <!-- <img src="{% static 'assets/images/logo.png' %}"  alt="logo"> -->
           <!-- <img src="assets/images/logo.png" alt="Techro HTML5 template"> --></a>
       </div>
       <div class="navbar-collapse collapse">
@@ -59,6 +80,8 @@
           <li {% if request.path == news %}class="active"{% endif %}><a href="{% url 'index:news' %}">News</a></li>
           <li {% if request.path == contact %}class="active"{% endif %}><a href="{% url 'index:contact' %}">Contact Us</a></li>
           <li {% if request.path == price %}class="active"{% endif %}><a href="{% url 'index:price' %}">Price</a></li>
+          <li {% if request.path == gallery %}class="active"{% endif %}><a href="{% url 'index:gallery' %}">Gallery</a></li>
+
           <li><a href="{% url 'administrator:administrator' %}">Portal</a></li>
           <li {% if request.path == student_result %}class="active"{% endif %}><a href="{% url 'administrator:student_result' %}">Check Result</a></li>
 
@@ -114,7 +137,7 @@
     <div class="col-md-3 col-sm-6">
       <div class="footerwidget">
         <h4>
-          Products Categories
+         Categories
         </h4>
         <div class="menu-course">
           <ul class="menu">

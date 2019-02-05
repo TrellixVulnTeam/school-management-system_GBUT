@@ -1,0 +1,30 @@
+{% extends 'administrator/base.html' %}
+{% load crispy_forms_tags %}
+{% block text %}
+
+{% if messages %}
+<ul class="messages">
+{% for message in messages %}
+<li class="{{ message.tags }} well">{{ message }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+<div class="row">
+<div class="col-md-12">
+<center><h2>Latest News</h2></center>
+<ul>
+{% for i in detail %}
+<li><a href="{% url 'administrator:newsdetails' i.slug %}">{{i.slug}}</a></li>
+{% endfor %}
+</ul>
+</div>
+</div>
+{% endblock %}
+
+
+
+
+
+
+

@@ -4,12 +4,184 @@
 		"selected_items":
 		[
 			[
-				"cl",
-				"class\tNew Class"
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"R",
+				"RichTextField"
+			],
+			[
+				"C",
+				"CKEditorWidget"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"gener",
+				"generate_Result"
+			],
+			[
+				"fina",
+				"final_total"
+			],
+			[
+				"ge",
+				"generate"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"ad",
+				"administrator"
+			],
+			[
+				"to",
+				"to_session"
+			],
+			[
+				"succe",
+				"successfully"
+			],
+			[
+				"s",
+				"slug"
+			],
+			[
+				"ne",
+				"newsdetails"
+			],
+			[
+				"gt",
+				"get"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"m",
+				"models"
 			],
 			[
 				"re",
-				"request"
+				"registrationnumber"
+			],
+			[
+				"fir",
+				"firstname"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"cur",
+				"current_class"
+			],
+			[
+				"curre",
+				"current_term"
+			],
+			[
+				"curr",
+				"current_term"
+			],
+			[
+				"fr",
+				"from_class"
+			],
+			[
+				"from",
+				"from_class"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"St",
+				"Student"
+			],
+			[
+				"S",
+				"Student"
+			],
+			[
+				"Stu",
+				"Student"
+			],
+			[
+				"cure",
+				"current_class"
+			],
+			[
+				"cu",
+				"current_term"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"frm",
+				"from_term"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"fro",
+				"from_class"
+			],
+			[
+				"pt",
+				"print"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"stu",
+				"students"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"Re",
+				"return"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"cl",
+				"class\tNew Class"
 			],
 			[
 				"se",
@@ -20,24 +192,12 @@
 				"option\tTag"
 			],
 			[
-				"i",
-				"input\tTag"
-			],
-			[
 				"exc",
 				"exclude"
 			],
 			[
 				"Se",
 				"SessionAdmin"
-			],
-			[
-				"ge",
-				"gen"
-			],
-			[
-				"cur",
-				"current_class"
 			],
 			[
 				"mess",
@@ -68,24 +228,12 @@
 				"GeneratePin"
 			],
 			[
-				"curr",
-				"current_session"
-			],
-			[
 				"F",
 				"ForeignKey"
 			],
 			[
 				"g",
 				"get"
-			],
-			[
-				"curre",
-				"current_class"
-			],
-			[
-				"cu",
-				"current_session"
 			],
 			[
 				"opt",
@@ -98,10 +246,6 @@
 			[
 				"la",
 				"label_10"
-			],
-			[
-				"col",
-				"col-sm-offset-2"
 			],
 			[
 				"di",
@@ -168,28 +312,12 @@
 				"Registration_Number"
 			],
 			[
-				"C",
-				"CharField"
-			],
-			[
 				"p",
 				"print"
 			],
 			[
-				"to",
-				"total_sub_offered"
-			],
-			[
 				"of",
 				"offer_not"
-			],
-			[
-				"fr",
-				"for\tFor Loop"
-			],
-			[
-				"S",
-				"Student"
 			],
 			[
 				"def",
@@ -204,10 +332,6 @@
 				"first_name"
 			],
 			[
-				"St",
-				"Student_subject"
-			],
-			[
 				"stud",
 				"student_res"
 			],
@@ -218,10 +342,6 @@
 			[
 				"P",
 				"PositiveIntegerField"
-			],
-			[
-				"de",
-				"default"
 			],
 			[
 				"n",
@@ -256,14 +376,6 @@
 				"CASCADE"
 			],
 			[
-				"s",
-				"subject_name"
-			],
-			[
-				"sub",
-				"subject"
-			],
-			[
 				"al",
 				"all_subject"
 			],
@@ -276,16 +388,8 @@
 				"term"
 			],
 			[
-				"im",
-				"image"
-			],
-			[
 				"ls",
 				"last_name"
-			],
-			[
-				"fir",
-				"first_name"
 			],
 			[
 				"cre",
@@ -410,191 +514,16 @@
 			[
 				"com",
 				"commit"
-			],
-			[
-				"text",
-				"textEdit_8"
-			],
-			[
-				"slu",
-				"SlugField"
-			],
-			[
-				"m",
-				"models"
-			],
-			[
-				"Re",
-				"Restaurant"
-			],
-			[
-				"O",
-				"on_delete"
-			],
-			[
-				"lo",
-				"location_slug"
-			],
-			[
-				"loc",
-				"location"
-			],
-			[
-				"si",
-				"Singles"
-			],
-			[
-				"U",
-				"UserSalon"
-			],
-			[
-				"salo",
-				"salon_form"
-			],
-			[
-				"sa",
-				"save"
-			],
-			[
-				"au",
-				"auto_now_add"
-			],
-			[
-				"qs",
-				"qs_sum"
-			],
-			[
-				"pr",
-				"price"
-			],
-			[
-				"View",
-				"view_cart"
-			],
-			[
-				"all",
-				"all_product"
-			],
-			[
-				"Uer",
-				"UserCart"
-			],
-			[
-				"User",
-				"UserCart"
-			],
-			[
-				"cate",
-				"category_slug"
-			],
-			[
-				"ca",
-				"category"
-			],
-			[
-				"sl",
-				"slugify"
-			],
-			[
-				"M",
-				"ModelAdmin"
-			],
-			[
-				"marg",
-				"margin-bottom"
-			],
-			[
-				"col-",
-				"col-sm-6"
-			],
-			[
-				"colo",
-				"color-orange"
-			],
-			[
-				"th",
-				"img-thumbnail"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "school/administrator/views.py",
+			"file": "school/templates/gallery.html",
 			"settings":
 			{
-				"buffer_size": 16028,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "school/administrator/urls.py",
-			"settings":
-			{
-				"buffer_size": 1285,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "school/administrator/forms.py",
-			"settings":
-			{
-				"buffer_size": 971,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "school/templates/index.html",
-			"settings":
-			{
-				"buffer_size": 15999,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "school/templates/administrator/base.html",
-			"settings":
-			{
-				"buffer_size": 9632,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "school/templates/base.html",
-			"settings":
-			{
-				"buffer_size": 8706,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "school/templates/administrator/news.html",
-			"settings":
-			{
-				"buffer_size": 350,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "school/templates/administrator/latestnews.html",
-			"settings":
-			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "school/templates/news.html",
-			"settings":
-			{
-				"buffer_size": 3141,
+				"buffer_size": 63,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -603,25 +532,105 @@
 			"file": "school/index/views.py",
 			"settings":
 			{
-				"buffer_size": 349,
+				"buffer_size": 414,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "school/school/settings.py",
+			"file": "school/index/urls.py",
 			"settings":
 			{
-				"buffer_size": 3582,
+				"buffer_size": 361,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "school/administrator/models.py",
+			"file": "school/templates/index.html",
 			"settings":
 			{
-				"buffer_size": 5046,
+				"buffer_size": 10106,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/about.html",
+			"settings":
+			{
+				"buffer_size": 9457,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/contact.html",
+			"settings":
+			{
+				"buffer_size": 2457,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/editnews.html",
+			"settings":
+			{
+				"buffer_size": 340,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/newsdetails.html",
+			"settings":
+			{
+				"buffer_size": 333,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/administrator/urls.py",
+			"settings":
+			{
+				"buffer_size": 2259,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/administrator/views.py",
+			"settings":
+			{
+				"buffer_size": 21300,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/news.html",
+			"settings":
+			{
+				"buffer_size": 340,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/administrator/forms.py",
+			"settings":
+			{
+				"buffer_size": 1214,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/school/urls.py",
+			"settings":
+			{
+				"buffer_size": 1221,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -630,16 +639,263 @@
 			"file": "school/templates/administrator/student_result.html",
 			"settings":
 			{
-				"buffer_size": 582,
+				"buffer_size": 999,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "school/templates/administrator/check_result.html",
+			"file": "school/administrator/models.py",
 			"settings":
 			{
-				"buffer_size": 4684,
+				"buffer_size": 5318,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/base2.html",
+			"settings":
+			{
+				"buffer_size": 2655,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/base.html",
+			"settings":
+			{
+				"buffer_size": 10593,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/query_general_result.html",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/generateposition.html",
+			"settings":
+			{
+				"buffer_size": 895,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/queryresult.html",
+			"settings":
+			{
+				"buffer_size": 1835,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/addresult.html",
+			"settings":
+			{
+				"buffer_size": 2732,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/news.html",
+			"settings":
+			{
+				"buffer_size": 907,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/promote.html",
+			"settings":
+			{
+				"buffer_size": 2413,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/change_student_term.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/query_student_term.html",
+			"settings":
+			{
+				"buffer_size": 1406,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/register.html",
+			"settings":
+			{
+				"buffer_size": 508,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/session.html",
+			"settings":
+			{
+				"buffer_size": 979,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/latestnews.html",
+			"settings":
+			{
+				"buffer_size": 485,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/student.html",
+			"settings":
+			{
+				"buffer_size": 1292,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/query_student.html",
+			"settings":
+			{
+				"buffer_size": 2377,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/select_student.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/administrator/admin.py",
+			"settings":
+			{
+				"buffer_size": 1418,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/omonbude/Documents/coding/project/a treat/atreat4u/atreat4u/account/views.py",
+			"settings":
+			{
+				"buffer_size": 10548,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/omonbude/Documents/coding/project/a treat/atreat4u/atreat4u/templates/account/edit_profile.html",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/omonbude/Documents/coding/project/a treat/atreat4u/atreat4u/account/forms.py",
+			"settings":
+			{
+				"buffer_size": 6554,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/edit_student.html",
+			"settings":
+			{
+				"buffer_size": 348,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/administrator/generate_course.html",
+			"settings":
+			{
+				"buffer_size": 25,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/index2.html",
+			"settings":
+			{
+				"buffer_size": 11883,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 9175,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/account/views.py",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "school/templates/web-origi.html",
+			"settings":
+			{
+				"buffer_size": 15862,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "{% load staticfiles %}"
+			}
+		},
+		{
+			"file": "school/templates/administrator/generatecourse.html",
+			"settings":
+			{
+				"buffer_size": 0,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -656,4 +912,1847 @@
 			}
 		},
 		{
-			"contents": "from django.shortcuts import render\nfrom django.conf import settings\nfrom main_section.forms import * \nfrom django.contrib.auth.decorators import login_required\nfrom django.http import HttpResponse, HttpResponseRedirect, Http404\nfrom django.shortcuts import render, get_object_or_404, redirect\nfrom django.utils import timezone\nfrom django.urls import reverse\nfrom django.contrib import messages\nfrom main_section.models import Post,Attachment,Logo,Contact,PdfGiveAway\nfrom main_section.extendable import *\nfrom django.core.paginator import Paginator, EmptyPage, PageNotAnInteger\nimport os  \nfrom django.core.mail import send_mail,EmailMultiAlternatives\nfrom django.template.loader import get_template\nfrom django.db.models import Q\nfrom django.http import HttpResponse\nfrom django.views.generic import View\nfrom django.template.loader import get_template\nfrom main_section.utils import render_to_pdf #created in step 4\n\n\nname = \"xPROJECT\"\n\ndef index(request):\n        title = \"Home\" \n        context = {\n        \t'title':title,\n        \t'name':name,\n        \t}\n        return render(request, \"index.html\",context )\n\n\ndef about_us(request):\n        template_name = \"partials_nav/about.html\"\n        context = {\n        \"title\": \"About Us\",\n        \"name\":name\n        }\n        return render (request,template_name,context)\n\ndef article_create(request,id=id):\n        if request.user.is_staff or request.user.is_superuser and request.user.is_authenticated:\n                form = ArticleForm(request.POST or None, request.FILES or None)\n                if form.is_valid():\n                        instance = form.save(commit=False)\n                        instance.user = request.user\n                        username = request.user\n                        instance.save()\n                        # message success\n                        html_template = get_template(\"partials_nav/article_msg.html\").render({\"username\":username,})\n                        messages.success(request, html_template,\"alert alert-info alert-dismissible\")\n                        return HttpResponseRedirect(instance.get_absolute_url())\n                context = {\n                        \"form\": form,\n                        \"title\": \"ArticleForm\",\n                        \"name\":name\n                        }\n                return render(request, \"articles/article_form.html\", context)\n        elif not request.user.is_staff or not request.user.is_superuser and request.user.is_authenticated:\n                template_name = \"articles/article_form.html\"\n                context = {\n                \"title\": \"ArticleForm\",\n                \"name\":name\n                }\n                return render(request,template_name,context)\n        elif not request.user.is_staff or not request.user.is_superuser and  not request.user.is_authenticated:\n                template_name = \"articles/article_form.html\"\n                context = {\n                \"title\": \"ArticleForm\",\n                \"name\":name\n                }\n                return render(request,template_name,context)\n        else:\n                raise Http404\n\n@login_required\ndef article_update(request,slug_for_title,post_code):\n        instance = get_object_or_404(Post, post_code=post_code,)\n        form = ArticleForm(request.POST or None, request.FILES or None, instance=instance)\n        if request.method == \"POST\":\n                if form.is_valid():\n                        instance = form.save(commit=False)\n                        if instance.keep_track == request.user:\n                                instance.save()\n                                template = get_template('articles/success_update.html').render()\n                                messages.success(request, template,\"alert alert-success alert-dismissible\")\n                                return HttpResponseRedirect(instance.get_absolute_url())\n                        else:\n                                template = get_template('articles/not_allowed_msg.html').render()\n                                messages.warning(request, template,\"alert alert-warning alert-dismissible\")\n        context = {\n        \"title\": \"Update Article\",\n        \"instance\": instance,\n        \"name\":name,\n        \"form\":form\n        }\n\n        return render(request, \"articles/article_form.html\", context)\n\n@login_required\ndef article_delete(request,slug_for_title,post_code):\n        instance = get_object_or_404(Post,post_code=post_code,)\n        if instance.keep_track == request.user:\n                instance.delete() # or save edits\n                template = get_template('articles/delete_msg.html').render()\n                messages.success(request,template, \"alert alert-success alert-dismissible\")\n                return redirect(reverse(\"mainsec:index\"))\n       \n\n \n\ndef archive_article(request):\n\tif not request.user.is_authenticated:\n\t\treturn redirect(reverse(\"authsec:signin\"))\n\tx = archive_2018_nov\n\ty = archive_2018_dec\n\tcontext = {\n\t        \"title\": \"Archive\",\n\t        \"name\":name,\n        \t\"archive_2018_nov\" :archive_2018_nov,\n        \t\"archive_2018_dec\" :archive_2018_dec,\n        \t\"archive_2019_jan\" :archive_2019_jan,\n        \t\"archive_2019_feb\" :archive_2019_feb,\n        \t\"archive_2019_mar\" :archive_2019_mar,\n        \t\"archive_2019_apr\" :archive_2019_apr,\n        \t\"archive_2019_may\" :archive_2019_may,\n        \t\"archive_2019_jun\" :archive_2019_jun,\n        \t\"archive_2019_jul\" :archive_2019_jul,\n        \t\"archive_2019_aug\" :archive_2019_aug,\n        \t\"archive_2019_sept\":archive_2019_sept,\n        \t\"archive_2019_oct\":archive_2019_oct,\n        \t\"archive_2019_nov\" :archive_2019_nov,\n        \t\"archive_2019_dec\" :archive_2019_dec,\n        \t\"archive_2020_jan\" :archive_2020_jan,\n        \t\"archive_2020_feb\" :archive_2020_feb,\n        \t\"archive_2020_mar\" :archive_2020_mar,\n        \t\"archive_2020_apr\" :archive_2020_apr,\n        \t\"archive_2020_may\" :archive_2020_may,\n        \t\"archive_2020_jun\" :archive_2020_jun,\n        \t\"archive_2020_jul\" :archive_2020_jul,\n        \t\"archive_2020_aug\" :archive_2020_aug,\n        \t\"archive_2020_sept\":archive_2020_sept,\n        \t\"archive_2020_oct\":archive_2020_oct,\n        \t\"archive_2020_nov\" :archive_2020_nov,\n        \t\"archive_2020_dec\" :archive_2020_dec,\n        \t\"archive_2021_jan\" :archive_2021_jan,\n        \t\"archive_2021_feb\" :archive_2021_feb,\n        \t\"archive_2021_mar\" :archive_2021_mar,\n        \t\"archive_2021_apr\" :archive_2021_apr,\n        \t\"archive_2021_may\" :archive_2021_may,\n        \t\"archive_2021_jun\" :archive_2021_jun,\n        \t\"archive_2021_jul\" :archive_2021_jul,\n        \t\"archive_2021_aug\" :archive_2021_aug,\n        \t\"archive_2021_sept\":archive_2021_sept,\n        \t\"archive_2021_oct\" :archive_2021_oct,\n        \t\"archive_2021_nov\" :archive_2021_nov,\n        \t\"archive_2021_dec\" :archive_2021_dec,\n        \t\"archive_2022_jan\" :archive_2022_jan,\n        \t\"archive_2022_feb\" :archive_2022_feb,\n        \t\"archive_2022_mar\" :archive_2022_mar,\n        \t\"archive_2022_apr\" :archive_2022_apr,\n        \t\"archive_2022_may\" :archive_2022_may,\n        \t\"archive_2022_jun\" :archive_2022_jun,\n        \t\"archive_2022_jul\" :archive_2022_jul,\n        \t\"archive_2022_aug\" :archive_2022_aug,\n        \t\"archive_2022_sept\":archive_2022_sept,\n        \t\"archive_2022_oct\" :archive_2022_oct,\n        \t\"archive_2022_nov\" :archive_2022_nov,\n        \t\"archive_2022_dec\" :archive_2022_dec,\n        \t\"archive_2023_jan\" :archive_2023_jan,\n        \t\"archive_2023_feb\" :archive_2023_feb,\n        \t\"archive_2023_mar\" :archive_2023_mar,\n        \t\"archive_2023_apr\" :archive_2023_apr,\n        \t\"archive_2023_may\" :archive_2023_may,\n        \t\"archive_2023_jun\" :archive_2023_jun,\n        \t\"archive_2023_jul\" :archive_2023_jul,\n        \t\"archive_2023_aug\" :archive_2023_aug,\n        \t\"archive_2023_sept\":archive_2023_sept,\n        \t\"archive_2023_oct\" :archive_2023_oct,\n        \t\"archive_2023_nov\" :archive_2023_nov,\n        \t\"archive_2023_dec\" :archive_2023_dec,\n        \t\"archive_2024_jan\" :archive_2024_jan,\n        \t\"archive_2024_feb\" :archive_2024_feb,\n        \t\"archive_2024_mar\" :archive_2024_mar,\n        \t\"archive_2024_apr\" :archive_2024_apr,\n        \t\"archive_2024_may\" :archive_2024_may,\n        \t\"archive_2024_jun\" :archive_2024_jun,\n        \t\"archive_2024_jul\" :archive_2024_jul,\n        \t\"archive_2024_aug\" :archive_2024_aug,\n        \t\"archive_2024_sept\":archive_2024_sept,\n        \t\"archive_2024_oct\" :archive_2024_oct,\n        \t\"archive_2024_nov\" :archive_2024_nov,\n        \t\"archive_2024_dec\" :archive_2024_dec,\n        \t\"archive_2025_jan\" :archive_2025_jan,\n        \t\"archive_2025_feb\" :archive_2025_feb,\n        \t\"archive_2025_mar\" :archive_2025_mar,\n        \t\"archive_2025_apr\" :archive_2025_apr,\n        \t\"archive_2025_may\" :archive_2025_may,\n        \t\"archive_2025_jun\" :archive_2025_jun,\n        \t\"archive_2025_jul\" :archive_2025_jul,\n        \t\"archive_2025_aug\" :archive_2025_aug,\n        \t\"archive_2025_sept\":archive_2025_sept,\n        \t\"archive_2025_oct\" :archive_2025_oct,\n        \t\"archive_2025_nov\" :archive_2025_nov,\n        \t\"archive_2025_dec\" :archive_2025_dec,\n        \t\"archive_2026_jan\" :archive_2026_jan,\n        \t\"archive_2026_feb\" :archive_2026_feb,\n        \t\"archive_2026_mar\" :archive_2026_mar,\n        \t\"archive_2026_apr\" :archive_2026_apr,\n        \t\"archive_2026_may\" :archive_2026_may,\n        \t\"archive_2026_jun\" :archive_2026_jun,\n        \t\"archive_2026_jul\" :archive_2026_jul,\n        \t\"archive_2026_aug\" :archive_2026_aug,\n        \t\"archive_2026_sept\":archive_2026_sept,\n        \t\"archive_2026_oct\" :archive_2026_oct,\n        \t\"archive_2026_nov\" :archive_2026_nov,\n        \t\"archive_2026_dec\" :archive_2026_dec,\n        \t\"archive_2027_jan\" :archive_2027_jan,\n        \t\"archive_2027_feb\" :archive_2027_feb,\n        \t\"archive_2027_mar\" :archive_2027_mar,\n        \t\"archive_2027_apr\" :archive_2027_apr,\n        \t\"archive_2027_may\" :archive_2027_may,\n        \t\"archive_2027_jun\" :archive_2027_jun,\n        \t\"archive_2027_jul\" :archive_2027_jul,\n        \t\"archive_2027_aug\" :archive_2027_aug,\n        \t\"archive_2027_sept\":archive_2027_sept,\n        \t\"archive_2027_oct\" :archive_2027_oct,\n        \t\"archive_2027_nov\" :archive_2027_nov,\n        \t\"archive_2027_dec\" :archive_2027_dec,\n        \t\"archive_2028_jan\" :archive_2028_jan,\n        \t\"archive_2028_feb\" :archive_2028_feb,\n        \t\"archive_2028_mar\" :archive_2028_mar,\n        \t\"archive_2028_apr\" :archive_2028_apr,\n        \t\"archive_2028_may\" :archive_2028_may,\n        \t\"archive_2028_jun\" :archive_2028_jun,\n        \t\"archive_2028_jul\" :archive_2028_jul,\n        \t\"archive_2028_aug\" :archive_2028_aug,\n        \t\"archive_2028_sept\":archive_2028_sept,\n        \t\"archive_2028_oct\" :archive_2028_oct,\n        \t\"archive_2028_nov\" :archive_2028_nov,\n        \t\"archive_2028_dec\" :archive_2028_dec,\n        \t\"archive_2029_jan\" :archive_2029_jan,\n        \t\"archive_2029_feb\" :archive_2029_feb,\n        \t\"archive_2029_mar\" :archive_2029_mar,\n        \t\"archive_2029_apr\" :archive_2029_apr,\n        \t\"archive_2029_may\" :archive_2029_may,\n        \t\"archive_2029_jun\" :archive_2029_jun,\n        \t\"archive_2029_jul\" :archive_2029_jul,\n        \t\"archive_2029_aug\" :archive_2029_aug,\n        \t\"archive_2029_sept\":archive_2029_sept,\n        \t\"archive_2029_oct\" :archive_2029_oct,\n        \t\"archive_2029_nov\" :archive_2029_nov,\n        \t\"archive_2029_dec\" :archive_2029_dec,\n        \t\"archive_2030_jan\" :archive_2030_jan,\n        \t\"archive_2030_feb\" :archive_2030_feb,\n        \t\"archive_2030_mar\" :archive_2030_mar,\n        \t\"archive_2030_apr\" :archive_2030_apr,\n        \t\"archive_2030_may\" :archive_2030_may,\n        \t\"archive_2030_jun\" :archive_2030_jun,\n        \t\"archive_2030_jul\" :archive_2030_jul,\n        \t\"archive_2030_aug\" :archive_2030_aug,\n        \t\"archive_2030_sept\":archive_2030_sept,\n        \t\"archive_2030_oct\" :archive_2030_oct,\n        \t\"archive_2030_nov\" :archive_2030_nov,\n        \t\"archive_2030_dec\" :archive_2030_dec,\n\n\t\t\t    }\n\n\treturn render(request, \"sub-templates/django.html\", context)\n\n\n\t\ndef article_detail(request,slug_for_title,post_code):\n        title = \"Detail\" \n        # Arrangements doesnt really matter here\n\n        post = get_object_or_404(Post,post_code=post_code,)\n        if slug_for_title == post.slug_for_title:\n                pass\n        else:\n                return HttpResponse(\"Not found\")\n        similar_posts_nov = Post.archive_published.filter(archieve_month= 'november',archieve_year=\"2018\").exclude(id=post.id)\n        getting_authors_post_count = Post.objects.filter(author_name=post.author_name).all().count()\n        authors_other_article = Post.objects.filter(author_name=post.author_name).all().exclude(id=post.id)\n        hostname = request.get_host()\n        # Cancer \n        post_cancer_1_exclude = Post.objects.filter(category='cancer',sub_category='cancer').exclude(id=post.id) \n        post_cancer_1_other = Post.objects.filter(category='cancer').exclude(sub_category='cancer').exclude(id=post.id) \n        post_cancer_2_exclude = Post.objects.filter(category='cancer',sub_category='colon rectal cancer').exclude(id=post.id) \n        post_cancer_2_other = Post.objects.filter(category='cancer').exclude(sub_category='colon rectal cancer').exclude(id=post.id) \n        post_cancer_3_exclude = Post.objects.filter(category='cancer',sub_category='ovarian cervical uterine cancer').exclude(id=post.id) \n        post_cancer_3_other = Post.objects.filter(category='cancer').exclude(sub_category='ovarian cervical uterine cancer').exclude(id=post.id) \n        post_cancer_4_exclude = Post.objects.filter(category='cancer',sub_category='brain cancer').exclude(id=post.id) \n        post_cancer_4_other = Post.objects.filter(category='cancer').exclude(sub_category='brain cancer').exclude(id=post.id) \n        post_cancer_5_exclude = Post.objects.filter(category='cancer',sub_category='leukemia lymphoma cancer').exclude(id=post.id) \n        post_cancer_5_other = Post.objects.filter(category='cancer').exclude(sub_category='leukemia lymphoma cancer').exclude(id=post.id) \n        post_cancer_6_exclude = Post.objects.filter(category='cancer',sub_category='prostrate cancer').exclude(id=post.id) \n        post_cancer_6_other = Post.objects.filter(category='cancer').exclude(sub_category='prostrate cancer').exclude(id=post.id) \n        post_cancer_7_exclude = Post.objects.filter(category='cancer',sub_category='breast cancer').exclude(id=post.id) \n        post_cancer_7_other = Post.objects.filter(category='cancer').exclude(sub_category='breast cancer').exclude(id=post.id) \n        post_cancer_8_exclude = Post.objects.filter(category='cancer',sub_category='lung mesothelioma asbestos').exclude(id=post.id) \n        post_cancer_8_other = Post.objects.filter(category='cancer').exclude(sub_category='lung mesothelioma asbestos').exclude(id=post.id) \n        post_cancer_9_exclude = Post.objects.filter(category='cancer',sub_category='skin cancer').exclude(id=post.id) \n        post_cancer_9_other = Post.objects.filter(category='cancer').exclude(sub_category='skin cancer').exclude(id=post.id) \n        # Internet\n        post_internet_1_exclude = Post.objects.filter(category='internet & biz',sub_category='internet and businesses online').exclude(id=post.id) \n        post_internet_1_other = Post.objects.filter(category='internet & biz').exclude(sub_category='internet and businesses online').exclude(id=post.id) \n        post_internet_2_exclude = Post.objects.filter(category='internet & biz',sub_category='blogging').exclude(id=post.id) \n        post_internet_2_other = Post.objects.filter(category='internet & biz').exclude(sub_category='blogging').exclude(id=post.id) \n        post_internet_3_exclude = Post.objects.filter(category='internet & biz',sub_category='traffic building').exclude(id=post.id) \n        post_internet_3_other = Post.objects.filter(category='internet & biz').exclude(sub_category='traffic building').exclude(id=post.id) \n        post_internet_4_exclude = Post.objects.filter(category='internet & biz',sub_category='site promotion').exclude(id=post.id) \n        post_internet_4_other = Post.objects.filter(category='internet & biz').exclude(sub_category='site promotion').exclude(id=post.id) \n        post_internet_5_exclude = Post.objects.filter(category='internet & biz',sub_category='affiliate revenue').exclude(id=post.id) \n        post_internet_5_other = Post.objects.filter(category='internet & biz').exclude(sub_category='affiliate revenue').exclude(id=post.id) \n        post_internet_6_exclude = Post.objects.filter(category='internet & biz',sub_category='domain names').exclude(id=post.id) \n        post_internet_6_other = Post.objects.filter(category='internet & biz').exclude(sub_category='domain names').exclude(id=post.id) \n        post_internet_7_exclude = Post.objects.filter(category='internet & biz',sub_category='ecommerce').exclude(id=post.id) \n        post_internet_7_other = Post.objects.filter(category='internet & biz').exclude(sub_category='ecommerce').exclude(id=post.id) \n        post_internet_8_exclude = Post.objects.filter(category='internet & biz',sub_category='banner advertising').exclude(id=post.id) \n        post_internet_8_other = Post.objects.filter(category='internet & biz').exclude(sub_category='banner advertising').exclude(id=post.id) \n        post_internet_9_exclude = Post.objects.filter(category='internet & biz',sub_category='social networking').exclude(id=post.id) \n        post_internet_9_other = Post.objects.filter(category='internet & biz').exclude(sub_category='social networking').exclude(id=post.id) \n        post_internet_10_exclude = Post.objects.filter(category='internet & biz',sub_category='paid surveys').exclude(id=post.id) \n        post_internet_10_other = Post.objects.filter(category='internet & biz').exclude(sub_category='paid surveys').exclude(id=post.id) \n        post_internet_11_exclude = Post.objects.filter(category='internet & biz',sub_category='PPC advertising').exclude(id=post.id) \n        post_internet_11_other = Post.objects.filter(category='internet & biz').exclude(sub_category='PPC advertising').exclude(id=post.id) \n        post_internet_12_exclude = Post.objects.filter(category='internet & biz',sub_category='web hosting').exclude(id=post.id) \n        post_internet_12_other = Post.objects.filter(category='internet & biz').exclude(sub_category='web hosting').exclude(id=post.id) \n        #Finance\n        post_finance_1_exclude = Post.objects.filter(category='finance',sub_category='general finance').exclude(id=post.id) \n        post_finance_1_other = Post.objects.filter(category='finance').exclude(sub_category='general finance').exclude(id=post.id) \n        post_finance_2_exclude = Post.objects.filter(category='finance',sub_category='bankruptcy').exclude(id=post.id) \n        post_finance_2_other = Post.objects.filter(category='finance').exclude(sub_category='bankruptcy').exclude(id=post.id) \n        post_finance_3_exclude = Post.objects.filter(category='finance',sub_category='bankruptcy tips advice').exclude(id=post.id) \n        post_finance_3_other = Post.objects.filter(category='finance').exclude(sub_category='bankruptcy tips advice').exclude(id=post.id) \n        post_finance_4_exclude = Post.objects.filter(category='finance',sub_category='budgeting').exclude(id=post.id) \n        post_finance_4_other = Post.objects.filter(category='finance').exclude(sub_category='budgeting').exclude(id=post.id) \n        post_finance_5_exclude = Post.objects.filter(category='finance',sub_category='commercial loans').exclude(id=post.id) \n        post_finance_5_other = Post.objects.filter(category='finance').exclude(sub_category='commercial loans').exclude(id=post.id) \n        post_finance_6_exclude = Post.objects.filter(category='finance',sub_category='currency trading').exclude(id=post.id) \n        post_finance_6_other = Post.objects.filter(category='finance').exclude(sub_category='currency trading').exclude(id=post.id) \n        post_finance_7_exclude = Post.objects.filter(category='finance',sub_category='debt consolidation').exclude(id=post.id) \n        post_finance_7_other = Post.objects.filter(category='finance').exclude(sub_category='debt consolidation').exclude(id=post.id) \n        post_finance_8_exclude = Post.objects.filter(category='finance',sub_category='debt management').exclude(id=post.id) \n        post_finance_8_other = Post.objects.filter(category='finance').exclude(sub_category='debt management').exclude(id=post.id) \n        post_finance_9_exclude = Post.objects.filter(category='finance',sub_category='loans').exclude(id=post.id) \n        post_finance_9_other = Post.objects.filter(category='finance').exclude(sub_category='loans').exclude(id=post.id) \n        post_finance_10_exclude = Post.objects.filter(category='finance',sub_category='philanthropy charitable giving').exclude(id=post.id) \n        post_finance_10_other = Post.objects.filter(category='finance').exclude(sub_category='philanthropy charitable giving').exclude(id=post.id) \n        post_finance_11_exclude = Post.objects.filter(category='finance',sub_category='student loans').exclude(id=post.id) \n        post_finance_11_other = Post.objects.filter(category='finance').exclude(sub_category='student loans').exclude(id=post.id) \n        post_finance_12_exclude = Post.objects.filter(category='finance',sub_category='taxes').exclude(id=post.id) \n        post_finance_12_other = Post.objects.filter(category='finance').exclude(sub_category='taxes').exclude(id=post.id) \n        post_finance_13_exclude = Post.objects.filter(category='finance',sub_category='unsecured loans').exclude(id=post.id) \n        post_finance_13_other = Post.objects.filter(category='finance').exclude(sub_category='unsecured loans').exclude(id=post.id) \n        post_finance_14_exclude = Post.objects.filter(category='finance',sub_category='wealth building').exclude(id=post.id) \n        post_finance_14_other = Post.objects.filter(category='finance').exclude(sub_category='wealth building').exclude(id=post.id) \n        #economics\n        post_eco_1_exclude = Post.objects.filter(category='economics',sub_category='general economy').exclude(id=post.id) \n        post_eco_1_other = Post.objects.filter(category='economics').exclude(sub_category='general economics').exclude(id=post.id) \n        post_eco_2_exclude = Post.objects.filter(category='economics',sub_category='country specific').exclude(id=post.id) \n        post_eco_2_other = Post.objects.filter(category='economics').exclude(sub_category='country specific').exclude(id=post.id) \n        post_eco_3_exclude = Post.objects.filter(category='economics',sub_category='continent specific').exclude(id=post.id) \n        post_eco_3_other = Post.objects.filter(category='economics').exclude(sub_category='continent specific').exclude(id=post.id) \n        post_eco_4_exclude = Post.objects.filter(category='economics',sub_category='africa#top 3 economies').exclude(id=post.id) \n        post_eco_4_other = Post.objects.filter(category='economics').exclude(sub_category='africa#top 3 economies').exclude(id=post.id) \n        post_eco_5_exclude = Post.objects.filter(category='economics',sub_category='asia#top 3 economies').exclude(id=post.id) \n        post_eco_5_other = Post.objects.filter(category='economics').exclude(sub_category='asia#top 3 economies').exclude(id=post.id) \n        post_eco_6_exclude = Post.objects.filter(category='economics',sub_category='europe#top 3 economies').exclude(id=post.id) \n        post_eco_6_other = Post.objects.filter(category='economics').exclude(sub_category='europe#top 3 economies').exclude(id=post.id) \n        post_eco_7_exclude = Post.objects.filter(category='economics',sub_category='failing economies').exclude(id=post.id) \n        post_eco_7_other = Post.objects.filter(category='economics').exclude(sub_category='failing economies').exclude(id=post.id) \n        post_eco_8_exclude = Post.objects.filter(category='economics',sub_category='industralization').exclude(id=post.id) \n        post_eco_8_other = Post.objects.filter(category='economics').exclude(sub_category='industralization').exclude(id=post.id) \n        post_eco_9_exclude = Post.objects.filter(category='economics',sub_category='world economy').exclude(id=post.id) \n        post_eco_9_other = Post.objects.filter(category='economics').exclude(sub_category='world economy').exclude(id=post.id)\n        #progg\n        post_progg_1_exclude = Post.objects.filter(category='programming',sub_category='programming').exclude(id=post.id) \n        post_progg_1_other = Post.objects.filter(category='programming').exclude(sub_category='programming').exclude(id=post.id) \n        post_progg_2_exclude = Post.objects.filter(category='programming',sub_category='python').exclude(id=post.id) \n        post_progg_2_other = Post.objects.filter(category='programming').exclude(sub_category='python').exclude(id=post.id) \n        post_progg_3_exclude = Post.objects.filter(category='programming',sub_category='PHP').exclude(id=post.id) \n        post_progg_3_other = Post.objects.filter(category='programming').exclude(sub_category='PHP').exclude(id=post.id) \n        post_progg_4_exclude = Post.objects.filter(category='programming',sub_category='django webframework').exclude(id=post.id) \n        post_progg_4_other = Post.objects.filter(category='programming').exclude(sub_category='django webframework').exclude(id=post.id) \n        post_progg_5_exclude = Post.objects.filter(category='programming',sub_category='wordpress').exclude(id=post.id) \n        post_progg_5_other = Post.objects.filter(category='programming').exclude(sub_category='wordpress').exclude(id=post.id) \n        post_progg_6_exclude = Post.objects.filter(category='programming',sub_category='machine learning-AI').exclude(id=post.id) \n        post_progg_6_other = Post.objects.filter(category='programming').exclude(sub_category='machine learning-AI').exclude(id=post.id) \n        post_progg_7_exclude = Post.objects.filter(category='programming',sub_category='javascript').exclude(id=post.id) \n        post_progg_7_other = Post.objects.filter(category='programming').exclude(sub_category='javascript').exclude(id=post.id) \n        post_progg_8_exclude = Post.objects.filter(category='programming',sub_category='jQuery library').exclude(id=post.id) \n        post_progg_8_other = Post.objects.filter(category='programming').exclude(sub_category='jQuery library').exclude(id=post.id) \n        post_progg_9_exclude = Post.objects.filter(category='programming',sub_category='angular JS').exclude(id=post.id) \n        post_progg_9_other = Post.objects.filter(category='programming').exclude(sub_category='angular JS').exclude(id=post.id) \n        post_progg_10_exclude = Post.objects.filter(category='programming',sub_category='phreact JS').exclude(id=post.id) \n        post_progg_10_other = Post.objects.filter(category='programming').exclude(sub_category='phreact JS').exclude(id=post.id)\n        #Investment \n        post_invest_1_exclude = Post.objects.filter(category='investing',sub_category='Investing').exclude(id=post.id) \n        post_invest_1_other = Post.objects.filter(category='Investing').exclude(sub_category='investing').exclude(id=post.id) \n        post_invest_2_exclude = Post.objects.filter(category='investing',sub_category='day trading').exclude(id=post.id) \n        post_invest_2_other = Post.objects.filter(category='investing').exclude(sub_category='day trading').exclude(id=post.id) \n        post_invest_3_exclude = Post.objects.filter(category='investing',sub_category='cryptocurrency').exclude(id=post.id) \n        post_invest_3_other = Post.objects.filter(category='investing').exclude(sub_category='cryptocurrency').exclude(id=post.id) \n        post_invest_4_exclude = Post.objects.filter(category='investing',sub_category='gold silver').exclude(id=post.id) \n        post_invest_4_other = Post.objects.filter(category='investing').exclude(sub_category='gold silver').exclude(id=post.id) \n        post_invest_5_exclude = Post.objects.filter(category='investing',sub_category='stocks').exclude(id=post.id) \n        post_invest_5_other = Post.objects.filter(category='investing').exclude(sub_category='stocks').exclude(id=post.id) \n        post_invest_6_exclude = Post.objects.filter(category='investing',sub_category='futures and commodities').exclude(id=post.id) \n        post_invest_6_other = Post.objects.filter(category='investing').exclude(sub_category='futures and commodities').exclude(id=post.id)\n        #Relationship \n        post_relate_1_exclude = Post.objects.filter(category='relationships',sub_category='relationships').exclude(id=post.id) \n        post_relate_1_other = Post.objects.filter(category='relationships').exclude(sub_category='relationships').exclude(id=post.id) \n        post_relate_2_exclude = Post.objects.filter(category='relationships',sub_category='love').exclude(id=post.id) \n        post_relate_2_other = Post.objects.filter(category='relationships').exclude(sub_category='love').exclude(id=post.id) \n        post_relate_3_exclude = Post.objects.filter(category='relationships',sub_category='marriage').exclude(id=post.id) \n        post_relate_3_other = Post.objects.filter(category='relationships').exclude(sub_category='marriage').exclude(id=post.id) \n        post_relate_4_exclude = Post.objects.filter(category='relationships',sub_category='communication').exclude(id=post.id) \n        post_relate_4_other = Post.objects.filter(category='relationships').exclude(sub_category='communication').exclude(id=post.id) \n        post_relate_5_exclude = Post.objects.filter(category='relationships',sub_category='conflict').exclude(id=post.id) \n        post_relate_5_other = Post.objects.filter(category='relationships').exclude(sub_category='conflict').exclude(id=post.id) \n        post_relate_6_exclude = Post.objects.filter(category='relationships',sub_category='affairs').exclude(id=post.id) \n        post_relate_6_other = Post.objects.filter(category='relationships').exclude(sub_category='affairs').exclude(id=post.id) \n        post_relate_7_exclude = Post.objects.filter(category='relationships',sub_category='divorce').exclude(id=post.id) \n        post_relate_7_other = Post.objects.filter(category='relationships').exclude(sub_category='divorce').exclude(id=post.id) \n        post_relate_8_exclude = Post.objects.filter(category='relationships',sub_category='friendship').exclude(id=post.id) \n        post_relate_8_other = Post.objects.filter(category='relationships').exclude(sub_category='friendship').exclude(id=post.id) \n        post_relate_9_exclude = Post.objects.filter(category='relationships',sub_category='singles').exclude(id=post.id) \n        post_relate_9_other = Post.objects.filter(category='relationships').exclude(sub_category='singles').exclude(id=post.id) \n        post_relate_10_exclude = Post.objects.filter(category='relationships',sub_category='domestic violence').exclude(id=post.id) \n        post_relate_10_other = Post.obje
+			"contents": "from django.shortcuts import render\nfrom django.conf import settings\nfrom main_section.forms import * \nfrom django.contrib.auth.decorators import login_required\nfrom django.http import HttpResponse, HttpResponseRedirect, Http404\nfrom django.shortcuts import render, get_object_or_404, redirect\nfrom django.utils import timezone\nfrom django.urls import reverse\nfrom django.contrib import messages\nfrom main_section.models import Post,Attachment,Logo,Contact,PdfGiveAway\nfrom main_section.extendable import *\nfrom django.core.paginator import Paginator, EmptyPage, PageNotAnInteger\nimport os  \nfrom django.core.mail import send_mail,EmailMultiAlternatives\nfrom django.template.loader import get_template\nfrom django.db.models import Q\nfrom django.http import HttpResponse\nfrom django.views.generic import View\nfrom django.template.loader import get_template\nfrom main_section.utils import render_to_pdf #created in step 4\n\n\nname = \"xPROJECT\"\n\ndef index(request):\n        title = \"Home\" \n        context = {\n        \t'title':title,\n        \t'name':name,\n        \t}\n        return render(request, \"index.html\",context )\n\n\ndef about_us(request):\n        template_name = \"partials_nav/about.html\"\n        context = {\n        \"title\": \"About Us\",\n        \"name\":name\n        }\n        return render (request,template_name,context)\n\ndef article_create(request,id=id):\n        if request.user.is_staff or request.user.is_superuser and request.user.is_authenticated:\n                form = ArticleForm(request.POST or None, request.FILES or None)\n                if form.is_valid():\n                        instance = form.save(commit=False)\n                        instance.user = request.user\n                        username = request.user\n                        instance.save()\n                        # message success\n                        html_template = get_template(\"partials_nav/article_msg.html\").render({\"username\":username,})\n                        messages.success(request, html_template,\"alert alert-info alert-dismissible\")\n                        return HttpResponseRedirect(instance.get_absolute_url())\n                context = {\n                        \"form\": form,\n                        \"title\": \"ArticleForm\",\n                        \"name\":name\n                        }\n                return render(request, \"articles/article_form.html\", context)\n        elif not request.user.is_staff or not request.user.is_superuser and request.user.is_authenticated:\n                template_name = \"articles/article_form.html\"\n                context = {\n                \"title\": \"ArticleForm\",\n                \"name\":name\n                }\n                return render(request,template_name,context)\n        elif not request.user.is_staff or not request.user.is_superuser and  not request.user.is_authenticated:\n                template_name = \"articles/article_form.html\"\n                context = {\n                \"title\": \"ArticleForm\",\n                \"name\":name\n                }\n                return render(request,template_name,context)\n        else:\n                raise Http404\n\n@login_required\ndef article_update(request,slug_for_title,post_code):\n        instance = get_object_or_404(Post, post_code=post_code,)\n        form = ArticleForm(request.POST or None, request.FILES or None, instance=instance)\n        if request.method == \"POST\":\n                if form.is_valid():\n                        instance = form.save(commit=False)\n                        if instance.keep_track == request.user:\n                                instance.save()\n                                template = get_template('articles/success_update.html').render()\n                                messages.success(request, template,\"alert alert-success alert-dismissible\")\n                                return HttpResponseRedirect(instance.get_absolute_url())\n                        else:\n                                template = get_template('articles/not_allowed_msg.html').render()\n                                messages.warning(request, template,\"alert alert-warning alert-dismissible\")\n        context = {\n        \"title\": \"Update Article\",\n        \"instance\": instance,\n        \"name\":name,\n        \"form\":form\n        }\n\n        return render(request, \"articles/article_form.html\", context)\n\n@login_required\ndef article_delete(request,slug_for_title,post_code):\n        instance = get_object_or_404(Post,post_code=post_code,)\n        if instance.keep_track == request.user:\n                instance.delete() # or save edits\n                template = get_template('articles/delete_msg.html').render()\n                messages.success(request,template, \"alert alert-success alert-dismissible\")\n                return redirect(reverse(\"mainsec:index\"))\n       \n\n \n\ndef archive_article(request):\n\tif not request.user.is_authenticated:\n\t\treturn redirect(reverse(\"authsec:signin\"))\n\tx = archive_2018_nov\n\ty = archive_2018_dec\n\tcontext = {\n\t        \"title\": \"Archive\",\n\t        \"name\":name,\n        \t\"archive_2018_nov\" :archive_2018_nov,\n        \t\"archive_2018_dec\" :archive_2018_dec,\n        \t\"archive_2019_jan\" :archive_2019_jan,\n        \t\"archive_2019_feb\" :archive_2019_feb,\n        \t\"archive_2019_mar\" :archive_2019_mar,\n        \t\"archive_2019_apr\" :archive_2019_apr,\n        \t\"archive_2019_may\" :archive_2019_may,\n        \t\"archive_2019_jun\" :archive_2019_jun,\n        \t\"archive_2019_jul\" :archive_2019_jul,\n        \t\"archive_2019_aug\" :archive_2019_aug,\n        \t\"archive_2019_sept\":archive_2019_sept,\n        \t\"archive_2019_oct\":archive_2019_oct,\n        \t\"archive_2019_nov\" :archive_2019_nov,\n        \t\"archive_2019_dec\" :archive_2019_dec,\n        \t\"archive_2020_jan\" :archive_2020_jan,\n        \t\"archive_2020_feb\" :archive_2020_feb,\n        \t\"archive_2020_mar\" :archive_2020_mar,\n        \t\"archive_2020_apr\" :archive_2020_apr,\n        \t\"archive_2020_may\" :archive_2020_may,\n        \t\"archive_2020_jun\" :archive_2020_jun,\n        \t\"archive_2020_jul\" :archive_2020_jul,\n        \t\"archive_2020_aug\" :archive_2020_aug,\n        \t\"archive_2020_sept\":archive_2020_sept,\n        \t\"archive_2020_oct\":archive_2020_oct,\n        \t\"archive_2020_nov\" :archive_2020_nov,\n        \t\"archive_2020_dec\" :archive_2020_dec,\n        \t\"archive_2021_jan\" :archive_2021_jan,\n        \t\"archive_2021_feb\" :archive_2021_feb,\n        \t\"archive_2021_mar\" :archive_2021_mar,\n        \t\"archive_2021_apr\" :archive_2021_apr,\n        \t\"archive_2021_may\" :archive_2021_may,\n        \t\"archive_2021_jun\" :archive_2021_jun,\n        \t\"archive_2021_jul\" :archive_2021_jul,\n        \t\"archive_2021_aug\" :archive_2021_aug,\n        \t\"archive_2021_sept\":archive_2021_sept,\n        \t\"archive_2021_oct\" :archive_2021_oct,\n        \t\"archive_2021_nov\" :archive_2021_nov,\n        \t\"archive_2021_dec\" :archive_2021_dec,\n        \t\"archive_2022_jan\" :archive_2022_jan,\n        \t\"archive_2022_feb\" :archive_2022_feb,\n        \t\"archive_2022_mar\" :archive_2022_mar,\n        \t\"archive_2022_apr\" :archive_2022_apr,\n        \t\"archive_2022_may\" :archive_2022_may,\n        \t\"archive_2022_jun\" :archive_2022_jun,\n        \t\"archive_2022_jul\" :archive_2022_jul,\n        \t\"archive_2022_aug\" :archive_2022_aug,\n        \t\"archive_2022_sept\":archive_2022_sept,\n        \t\"archive_2022_oct\" :archive_2022_oct,\n        \t\"archive_2022_nov\" :archive_2022_nov,\n        \t\"archive_2022_dec\" :archive_2022_dec,\n        \t\"archive_2023_jan\" :archive_2023_jan,\n        \t\"archive_2023_feb\" :archive_2023_feb,\n        \t\"archive_2023_mar\" :archive_2023_mar,\n        \t\"archive_2023_apr\" :archive_2023_apr,\n        \t\"archive_2023_may\" :archive_2023_may,\n        \t\"archive_2023_jun\" :archive_2023_jun,\n        \t\"archive_2023_jul\" :archive_2023_jul,\n        \t\"archive_2023_aug\" :archive_2023_aug,\n        \t\"archive_2023_sept\":archive_2023_sept,\n        \t\"archive_2023_oct\" :archive_2023_oct,\n        \t\"archive_2023_nov\" :archive_2023_nov,\n        \t\"archive_2023_dec\" :archive_2023_dec,\n        \t\"archive_2024_jan\" :archive_2024_jan,\n        \t\"archive_2024_feb\" :archive_2024_feb,\n        \t\"archive_2024_mar\" :archive_2024_mar,\n        \t\"archive_2024_apr\" :archive_2024_apr,\n        \t\"archive_2024_may\" :archive_2024_may,\n        \t\"archive_2024_jun\" :archive_2024_jun,\n        \t\"archive_2024_jul\" :archive_2024_jul,\n        \t\"archive_2024_aug\" :archive_2024_aug,\n        \t\"archive_2024_sept\":archive_2024_sept,\n        \t\"archive_2024_oct\" :archive_2024_oct,\n        \t\"archive_2024_nov\" :archive_2024_nov,\n        \t\"archive_2024_dec\" :archive_2024_dec,\n        \t\"archive_2025_jan\" :archive_2025_jan,\n        \t\"archive_2025_feb\" :archive_2025_feb,\n        \t\"archive_2025_mar\" :archive_2025_mar,\n        \t\"archive_2025_apr\" :archive_2025_apr,\n        \t\"archive_2025_may\" :archive_2025_may,\n        \t\"archive_2025_jun\" :archive_2025_jun,\n        \t\"archive_2025_jul\" :archive_2025_jul,\n        \t\"archive_2025_aug\" :archive_2025_aug,\n        \t\"archive_2025_sept\":archive_2025_sept,\n        \t\"archive_2025_oct\" :archive_2025_oct,\n        \t\"archive_2025_nov\" :archive_2025_nov,\n        \t\"archive_2025_dec\" :archive_2025_dec,\n        \t\"archive_2026_jan\" :archive_2026_jan,\n        \t\"archive_2026_feb\" :archive_2026_feb,\n        \t\"archive_2026_mar\" :archive_2026_mar,\n        \t\"archive_2026_apr\" :archive_2026_apr,\n        \t\"archive_2026_may\" :archive_2026_may,\n        \t\"archive_2026_jun\" :archive_2026_jun,\n        \t\"archive_2026_jul\" :archive_2026_jul,\n        \t\"archive_2026_aug\" :archive_2026_aug,\n        \t\"archive_2026_sept\":archive_2026_sept,\n        \t\"archive_2026_oct\" :archive_2026_oct,\n        \t\"archive_2026_nov\" :archive_2026_nov,\n        \t\"archive_2026_dec\" :archive_2026_dec,\n        \t\"archive_2027_jan\" :archive_2027_jan,\n        \t\"archive_2027_feb\" :archive_2027_feb,\n        \t\"archive_2027_mar\" :archive_2027_mar,\n        \t\"archive_2027_apr\" :archive_2027_apr,\n        \t\"archive_2027_may\" :archive_2027_may,\n        \t\"archive_2027_jun\" :archive_2027_jun,\n        \t\"archive_2027_jul\" :archive_2027_jul,\n        \t\"archive_2027_aug\" :archive_2027_aug,\n        \t\"archive_2027_sept\":archive_2027_sept,\n        \t\"archive_2027_oct\" :archive_2027_oct,\n        \t\"archive_2027_nov\" :archive_2027_nov,\n        \t\"archive_2027_dec\" :archive_2027_dec,\n        \t\"archive_2028_jan\" :archive_2028_jan,\n        \t\"archive_2028_feb\" :archive_2028_feb,\n        \t\"archive_2028_mar\" :archive_2028_mar,\n        \t\"archive_2028_apr\" :archive_2028_apr,\n        \t\"archive_2028_may\" :archive_2028_may,\n        \t\"archive_2028_jun\" :archive_2028_jun,\n        \t\"archive_2028_jul\" :archive_2028_jul,\n        \t\"archive_2028_aug\" :archive_2028_aug,\n        \t\"archive_2028_sept\":archive_2028_sept,\n        \t\"archive_2028_oct\" :archive_2028_oct,\n        \t\"archive_2028_nov\" :archive_2028_nov,\n        \t\"archive_2028_dec\" :archive_2028_dec,\n        \t\"archive_2029_jan\" :archive_2029_jan,\n        \t\"archive_2029_feb\" :archive_2029_feb,\n        \t\"archive_2029_mar\" :archive_2029_mar,\n        \t\"archive_2029_apr\" :archive_2029_apr,\n        \t\"archive_2029_may\" :archive_2029_may,\n        \t\"archive_2029_jun\" :archive_2029_jun,\n        \t\"archive_2029_jul\" :archive_2029_jul,\n        \t\"archive_2029_aug\" :archive_2029_aug,\n        \t\"archive_2029_sept\":archive_2029_sept,\n        \t\"archive_2029_oct\" :archive_2029_oct,\n        \t\"archive_2029_nov\" :archive_2029_nov,\n        \t\"archive_2029_dec\" :archive_2029_dec,\n        \t\"archive_2030_jan\" :archive_2030_jan,\n        \t\"archive_2030_feb\" :archive_2030_feb,\n        \t\"archive_2030_mar\" :archive_2030_mar,\n        \t\"archive_2030_apr\" :archive_2030_apr,\n        \t\"archive_2030_may\" :archive_2030_may,\n        \t\"archive_2030_jun\" :archive_2030_jun,\n        \t\"archive_2030_jul\" :archive_2030_jul,\n        \t\"archive_2030_aug\" :archive_2030_aug,\n        \t\"archive_2030_sept\":archive_2030_sept,\n        \t\"archive_2030_oct\" :archive_2030_oct,\n        \t\"archive_2030_nov\" :archive_2030_nov,\n        \t\"archive_2030_dec\" :archive_2030_dec,\n\n\t\t\t    }\n\n\treturn render(request, \"sub-templates/django.html\", context)\n\n\n\t\ndef article_detail(request,slug_for_title,post_code):\n        title = \"Detail\" \n        # Arrangements doesnt really matter here\n\n        post = get_object_or_404(Post,post_code=post_code,)\n        if slug_for_title == post.slug_for_title:\n                pass\n        else:\n                return HttpResponse(\"Not found\")\n        similar_posts_nov = Post.archive_published.filter(archieve_month= 'november',archieve_year=\"2018\").exclude(id=post.id)\n        getting_authors_post_count = Post.objects.filter(author_name=post.author_name).all().count()\n        authors_other_article = Post.objects.filter(author_name=post.author_name).all().exclude(id=post.id)\n        hostname = request.get_host()\n        # Cancer \n        post_cancer_1_exclude = Post.objects.filter(category='cancer',sub_category='cancer').exclude(id=post.id) \n        post_cancer_1_other = Post.objects.filter(category='cancer').exclude(sub_category='cancer').exclude(id=post.id) \n        post_cancer_2_exclude = Post.objects.filter(category='cancer',sub_category='colon rectal cancer').exclude(id=post.id) \n        post_cancer_2_other = Post.objects.filter(category='cancer').exclude(sub_category='colon rectal cancer').exclude(id=post.id) \n        post_cancer_3_exclude = Post.objects.filter(category='cancer',sub_category='ovarian cervical uterine cancer').exclude(id=post.id) \n        post_cancer_3_other = Post.objects.filter(category='cancer').exclude(sub_category='ovarian cervical uterine cancer').exclude(id=post.id) \n        post_cancer_4_exclude = Post.objects.filter(category='cancer',sub_category='brain cancer').exclude(id=post.id) \n        post_cancer_4_other = Post.objects.filter(category='cancer').exclude(sub_category='brain cancer').exclude(id=post.id) \n        post_cancer_5_exclude = Post.objects.filter(category='cancer',sub_category='leukemia lymphoma cancer').exclude(id=post.id) \n        post_cancer_5_other = Post.objects.filter(category='cancer').exclude(sub_category='leukemia lymphoma cancer').exclude(id=post.id) \n        post_cancer_6_exclude = Post.objects.filter(category='cancer',sub_category='prostrate cancer').exclude(id=post.id) \n        post_cancer_6_other = Post.objects.filter(category='cancer').exclude(sub_category='prostrate cancer').exclude(id=post.id) \n        post_cancer_7_exclude = Post.objects.filter(category='cancer',sub_category='breast cancer').exclude(id=post.id) \n        post_cancer_7_other = Post.objects.filter(category='cancer').exclude(sub_category='breast cancer').exclude(id=post.id) \n        post_cancer_8_exclude = Post.objects.filter(category='cancer',sub_category='lung mesothelioma asbestos').exclude(id=post.id) \n        post_cancer_8_other = Post.objects.filter(category='cancer').exclude(sub_category='lung mesothelioma asbestos').exclude(id=post.id) \n        post_cancer_9_exclude = Post.objects.filter(category='cancer',sub_category='skin cancer').exclude(id=post.id) \n        post_cancer_9_other = Post.objects.filter(category='cancer').exclude(sub_category='skin cancer').exclude(id=post.id) \n        # Internet\n        post_internet_1_exclude = Post.objects.filter(category='internet & biz',sub_category='internet and businesses online').exclude(id=post.id) \n        post_internet_1_other = Post.objects.filter(category='internet & biz').exclude(sub_category='internet and businesses online').exclude(id=post.id) \n        post_internet_2_exclude = Post.objects.filter(category='internet & biz',sub_category='blogging').exclude(id=post.id) \n        post_internet_2_other = Post.objects.filter(category='internet & biz').exclude(sub_category='blogging').exclude(id=post.id) \n        post_internet_3_exclude = Post.objects.filter(category='internet & biz',sub_category='traffic building').exclude(id=post.id) \n        post_internet_3_other = Post.objects.filter(category='internet & biz').exclude(sub_category='traffic building').exclude(id=post.id) \n        post_internet_4_exclude = Post.objects.filter(category='internet & biz',sub_category='site promotion').exclude(id=post.id) \n        post_internet_4_other = Post.objects.filter(category='internet & biz').exclude(sub_category='site promotion').exclude(id=post.id) \n        post_internet_5_exclude = Post.objects.filter(category='internet & biz',sub_category='affiliate revenue').exclude(id=post.id) \n        post_internet_5_other = Post.objects.filter(category='internet & biz').exclude(sub_category='affiliate revenue').exclude(id=post.id) \n        post_internet_6_exclude = Post.objects.filter(category='internet & biz',sub_category='domain names').exclude(id=post.id) \n        post_internet_6_other = Post.objects.filter(category='internet & biz').exclude(sub_category='domain names').exclude(id=post.id) \n        post_internet_7_exclude = Post.objects.filter(category='internet & biz',sub_category='ecommerce').exclude(id=post.id) \n        post_internet_7_other = Post.objects.filter(category='internet & biz').exclude(sub_category='ecommerce').exclude(id=post.id) \n        post_internet_8_exclude = Post.objects.filter(category='internet & biz',sub_category='banner advertising').exclude(id=post.id) \n        post_internet_8_other = Post.objects.filter(category='internet & biz').exclude(sub_category='banner advertising').exclude(id=post.id) \n        post_internet_9_exclude = Post.objects.filter(category='internet & biz',sub_category='social networking').exclude(id=post.id) \n        post_internet_9_other = Post.objects.filter(category='internet & biz').exclude(sub_category='social networking').exclude(id=post.id) \n        post_internet_10_exclude = Post.objects.filter(category='internet & biz',sub_category='paid surveys').exclude(id=post.id) \n        post_internet_10_other = Post.objects.filter(category='internet & biz').exclude(sub_category='paid surveys').exclude(id=post.id) \n        post_internet_11_exclude = Post.objects.filter(category='internet & biz',sub_category='PPC advertising').exclude(id=post.id) \n        post_internet_11_other = Post.objects.filter(category='internet & biz').exclude(sub_category='PPC advertising').exclude(id=post.id) \n        post_internet_12_exclude = Post.objects.filter(category='internet & biz',sub_category='web hosting').exclude(id=post.id) \n        post_internet_12_other = Post.objects.filter(category='internet & biz').exclude(sub_category='web hosting').exclude(id=post.id) \n        #Finance\n        post_finance_1_exclude = Post.objects.filter(category='finance',sub_category='general finance').exclude(id=post.id) \n        post_finance_1_other = Post.objects.filter(category='finance').exclude(sub_category='general finance').exclude(id=post.id) \n        post_finance_2_exclude = Post.objects.filter(category='finance',sub_category='bankruptcy').exclude(id=post.id) \n        post_finance_2_other = Post.objects.filter(category='finance').exclude(sub_category='bankruptcy').exclude(id=post.id) \n        post_finance_3_exclude = Post.objects.filter(category='finance',sub_category='bankruptcy tips advice').exclude(id=post.id) \n        post_finance_3_other = Post.objects.filter(category='finance').exclude(sub_category='bankruptcy tips advice').exclude(id=post.id) \n        post_finance_4_exclude = Post.objects.filter(category='finance',sub_category='budgeting').exclude(id=post.id) \n        post_finance_4_other = Post.objects.filter(category='finance').exclude(sub_category='budgeting').exclude(id=post.id) \n        post_finance_5_exclude = Post.objects.filter(category='finance',sub_category='commercial loans').exclude(id=post.id) \n        post_finance_5_other = Post.objects.filter(category='finance').exclude(sub_category='commercial loans').exclude(id=post.id) \n        post_finance_6_exclude = Post.objects.filter(category='finance',sub_category='currency trading').exclude(id=post.id) \n        post_finance_6_other = Post.objects.filter(category='finance').exclude(sub_category='currency trading').exclude(id=post.id) \n        post_finance_7_exclude = Post.objects.filter(category='finance',sub_category='debt consolidation').exclude(id=post.id) \n        post_finance_7_other = Post.objects.filter(category='finance').exclude(sub_category='debt consolidation').exclude(id=post.id) \n        post_finance_8_exclude = Post.objects.filter(category='finance',sub_category='debt management').exclude(id=post.id) \n        post_finance_8_other = Post.objects.filter(category='finance').exclude(sub_category='debt management').exclude(id=post.id) \n        post_finance_9_exclude = Post.objects.filter(category='finance',sub_category='loans').exclude(id=post.id) \n        post_finance_9_other = Post.objects.filter(category='finance').exclude(sub_category='loans').exclude(id=post.id) \n        post_finance_10_exclude = Post.objects.filter(category='finance',sub_category='philanthropy charitable giving').exclude(id=post.id) \n        post_finance_10_other = Post.objects.filter(category='finance').exclude(sub_category='philanthropy charitable giving').exclude(id=post.id) \n        post_finance_11_exclude = Post.objects.filter(category='finance',sub_category='student loans').exclude(id=post.id) \n        post_finance_11_other = Post.objects.filter(category='finance').exclude(sub_category='student loans').exclude(id=post.id) \n        post_finance_12_exclude = Post.objects.filter(category='finance',sub_category='taxes').exclude(id=post.id) \n        post_finance_12_other = Post.objects.filter(category='finance').exclude(sub_category='taxes').exclude(id=post.id) \n        post_finance_13_exclude = Post.objects.filter(category='finance',sub_category='unsecured loans').exclude(id=post.id) \n        post_finance_13_other = Post.objects.filter(category='finance').exclude(sub_category='unsecured loans').exclude(id=post.id) \n        post_finance_14_exclude = Post.objects.filter(category='finance',sub_category='wealth building').exclude(id=post.id) \n        post_finance_14_other = Post.objects.filter(category='finance').exclude(sub_category='wealth building').exclude(id=post.id) \n        #economics\n        post_eco_1_exclude = Post.objects.filter(category='economics',sub_category='general economy').exclude(id=post.id) \n        post_eco_1_other = Post.objects.filter(category='economics').exclude(sub_category='general economics').exclude(id=post.id) \n        post_eco_2_exclude = Post.objects.filter(category='economics',sub_category='country specific').exclude(id=post.id) \n        post_eco_2_other = Post.objects.filter(category='economics').exclude(sub_category='country specific').exclude(id=post.id) \n        post_eco_3_exclude = Post.objects.filter(category='economics',sub_category='continent specific').exclude(id=post.id) \n        post_eco_3_other = Post.objects.filter(category='economics').exclude(sub_category='continent specific').exclude(id=post.id) \n        post_eco_4_exclude = Post.objects.filter(category='economics',sub_category='africa#top 3 economies').exclude(id=post.id) \n        post_eco_4_other = Post.objects.filter(category='economics').exclude(sub_category='africa#top 3 economies').exclude(id=post.id) \n        post_eco_5_exclude = Post.objects.filter(category='economics',sub_category='asia#top 3 economies').exclude(id=post.id) \n        post_eco_5_other = Post.objects.filter(category='economics').exclude(sub_category='asia#top 3 economies').exclude(id=post.id) \n        post_eco_6_exclude = Post.objects.filter(category='economics',sub_category='europe#top 3 economies').exclude(id=post.id) \n        post_eco_6_other = Post.objects.filter(category='economics').exclude(sub_category='europe#top 3 economies').exclude(id=post.id) \n        post_eco_7_exclude = Post.objects.filter(category='economics',sub_category='failing economies').exclude(id=post.id) \n        post_eco_7_other = Post.objects.filter(category='economics').exclude(sub_category='failing economies').exclude(id=post.id) \n        post_eco_8_exclude = Post.objects.filter(category='economics',sub_category='industralization').exclude(id=post.id) \n        post_eco_8_other = Post.objects.filter(category='economics').exclude(sub_category='industralization').exclude(id=post.id) \n        post_eco_9_exclude = Post.objects.filter(category='economics',sub_category='world economy').exclude(id=post.id) \n        post_eco_9_other = Post.objects.filter(category='economics').exclude(sub_category='world economy').exclude(id=post.id)\n        #progg\n        post_progg_1_exclude = Post.objects.filter(category='programming',sub_category='programming').exclude(id=post.id) \n        post_progg_1_other = Post.objects.filter(category='programming').exclude(sub_category='programming').exclude(id=post.id) \n        post_progg_2_exclude = Post.objects.filter(category='programming',sub_category='python').exclude(id=post.id) \n        post_progg_2_other = Post.objects.filter(category='programming').exclude(sub_category='python').exclude(id=post.id) \n        post_progg_3_exclude = Post.objects.filter(category='programming',sub_category='PHP').exclude(id=post.id) \n        post_progg_3_other = Post.objects.filter(category='programming').exclude(sub_category='PHP').exclude(id=post.id) \n        post_progg_4_exclude = Post.objects.filter(category='programming',sub_category='django webframework').exclude(id=post.id) \n        post_progg_4_other = Post.objects.filter(category='programming').exclude(sub_category='django webframework').exclude(id=post.id) \n        post_progg_5_exclude = Post.objects.filter(category='programming',sub_category='wordpress').exclude(id=post.id) \n        post_progg_5_other = Post.objects.filter(category='programming').exclude(sub_category='wordpress').exclude(id=post.id) \n        post_progg_6_exclude = Post.objects.filter(category='programming',sub_category='machine learning-AI').exclude(id=post.id) \n        post_progg_6_other = Post.objects.filter(category='programming').exclude(sub_category='machine learning-AI').exclude(id=post.id) \n        post_progg_7_exclude = Post.objects.filter(category='programming',sub_category='javascript').exclude(id=post.id) \n        post_progg_7_other = Post.objects.filter(category='programming').exclude(sub_category='javascript').exclude(id=post.id) \n        post_progg_8_exclude = Post.objects.filter(category='programming',sub_category='jQuery library').exclude(id=post.id) \n        post_progg_8_other = Post.objects.filter(category='programming').exclude(sub_category='jQuery library').exclude(id=post.id) \n        post_progg_9_exclude = Post.objects.filter(category='programming',sub_category='angular JS').exclude(id=post.id) \n        post_progg_9_other = Post.objects.filter(category='programming').exclude(sub_category='angular JS').exclude(id=post.id) \n        post_progg_10_exclude = Post.objects.filter(category='programming',sub_category='phreact JS').exclude(id=post.id) \n        post_progg_10_other = Post.objects.filter(category='programming').exclude(sub_category='phreact JS').exclude(id=post.id)\n        #Investment \n        post_invest_1_exclude = Post.objects.filter(category='investing',sub_category='Investing').exclude(id=post.id) \n        post_invest_1_other = Post.objects.filter(category='Investing').exclude(sub_category='investing').exclude(id=post.id) \n        post_invest_2_exclude = Post.objects.filter(category='investing',sub_category='day trading').exclude(id=post.id) \n        post_invest_2_other = Post.objects.filter(category='investing').exclude(sub_category='day trading').exclude(id=post.id) \n        post_invest_3_exclude = Post.objects.filter(category='investing',sub_category='cryptocurrency').exclude(id=post.id) \n        post_invest_3_other = Post.objects.filter(category='investing').exclude(sub_category='cryptocurrency').exclude(id=post.id) \n        post_invest_4_exclude = Post.objects.filter(category='investing',sub_category='gold silver').exclude(id=post.id) \n        post_invest_4_other = Post.objects.filter(category='investing').exclude(sub_category='gold silver').exclude(id=post.id) \n        post_invest_5_exclude = Post.objects.filter(category='investing',sub_category='stocks').exclude(id=post.id) \n        post_invest_5_other = Post.objects.filter(category='investing').exclude(sub_category='stocks').exclude(id=post.id) \n        post_invest_6_exclude = Post.objects.filter(category='investing',sub_category='futures and commodities').exclude(id=post.id) \n        post_invest_6_other = Post.objects.filter(category='investing').exclude(sub_category='futures and commodities').exclude(id=post.id)\n        #Relationship \n        post_relate_1_exclude = Post.objects.filter(category='relationships',sub_category='relationships').exclude(id=post.id) \n        post_relate_1_other = Post.objects.filter(category='relationships').exclude(sub_category='relationships').exclude(id=post.id) \n        post_relate_2_exclude = Post.objects.filter(category='relationships',sub_category='love').exclude(id=post.id) \n        post_relate_2_other = Post.objects.filter(category='relationships').exclude(sub_category='love').exclude(id=post.id) \n        post_relate_3_exclude = Post.objects.filter(category='relationships',sub_category='marriage').exclude(id=post.id) \n        post_relate_3_other = Post.objects.filter(category='relationships').exclude(sub_category='marriage').exclude(id=post.id) \n        post_relate_4_exclude = Post.objects.filter(category='relationships',sub_category='communication').exclude(id=post.id) \n        post_relate_4_other = Post.objects.filter(category='relationships').exclude(sub_category='communication').exclude(id=post.id) \n        post_relate_5_exclude = Post.objects.filter(category='relationships',sub_category='conflict').exclude(id=post.id) \n        post_relate_5_other = Post.objects.filter(category='relationships').exclude(sub_category='conflict').exclude(id=post.id) \n        post_relate_6_exclude = Post.objects.filter(category='relationships',sub_category='affairs').exclude(id=post.id) \n        post_relate_6_other = Post.objects.filter(category='relationships').exclude(sub_category='affairs').exclude(id=post.id) \n        post_relate_7_exclude = Post.objects.filter(category='relationships',sub_category='divorce').exclude(id=post.id) \n        post_relate_7_other = Post.objects.filter(category='relationships').exclude(sub_category='divorce').exclude(id=post.id) \n        post_relate_8_exclude = Post.objects.filter(category='relationships',sub_category='friendship').exclude(id=post.id) \n        post_relate_8_other = Post.objects.filter(category='relationships').exclude(sub_category='friendship').exclude(id=post.id) \n        post_relate_9_exclude = Post.objects.filter(category='relationships',sub_category='singles').exclude(id=post.id) \n        post_relate_9_other = Post.objects.filter(category='relationships').exclude(sub_category='singles').exclude(id=post.id) \n        post_relate_10_exclude = Post.objects.filter(category='relationships',sub_category='domestic violence').exclude(id=post.id) \n        post_relate_10_other = Post.objects.filter(category='relationships').exclude(sub_category='domestic violence').exclude(id=post.id) \n        post_relate_11_exclude = Post.objects.filter(category='relationships',sub_category='commitment').exclude(id=post.id) \n        post_relate_11_other = Post.objects.filter(category='relationships').exclude(sub_category='commitment').exclude(id=post.id) \n        post_relate_12_exclude = Post.objects.filter(category='relationships',sub_category='reconnecting').exclude(id=post.id) \n        post_relate_12_other = Post.objects.filter(category='relationships').exclude(sub_category='reconnecting').exclude(id=post.id) \n        post_relate_13_exclude = Post.objects.filter(category='relationships',sub_category='long distance').exclude(id=post.id) \n        post_relate_13_other = Post.objects.filter(category='relationships').exclude(sub_category='long distance').exclude(id=post.id) \n        post_relate_14_exclude = Post.objects.filter(category='relationships',sub_category='post divorce').exclude(id=post.id) \n        post_relate_14_other = Post.objects.filter(category='relationships').exclude(sub_category='post divorce').exclude(id=post.id)\n        post_relate_15_exclude = Post.objects.filter(category='relationships',sub_category='wedding').exclude(id=post.id) \n        post_relate_15_other = Post.objects.filter(category='relationships').exclude(sub_category='wedding').exclude(id=post.id)\n\n        # Self-improvements\n        post_imprv_1_exclude = Post.objects.filter(category='self-improvement',sub_category='self-improvement').exclude(id=post.id) \n        post_imprv_1_other = Post.objects.filter(category='self-improvement').exclude(sub_category='self-improvement').exclude(id=post.id) \n        post_imprv_2_exclude = Post.objects.filter(category='self-improvement',sub_category='achievement').exclude(id=post.id) \n        post_imprv_2_other = Post.objects.filter(category='self-improvement').exclude(sub_category='achievement').exclude(id=post.id) \n        post_imprv_3_exclude = Post.objects.filter(category='self-improvement',sub_category='addictions').exclude(id=post.id) \n        post_imprv_3_other = Post.objects.filter(category='self-improvement').exclude(sub_category='addictions').exclude(id=post.id) \n        post_imprv_4_exclude = Post.objects.filter(category='self-improvement',sub_category='anger management').exclude(id=post.id) \n        post_imprv_4_other = Post.objects.filter(category='self-improvement').exclude(sub_category='anger management').exclude(id=post.id) \n        post_imprv_5_exclude = Post.objects.filter(category='self-improvement',sub_category='attraction').exclude(id=post.id) \n        post_imprv_5_other = Post.objects.filter(category='self-improvement').exclude(sub_category='attraction').exclude(id=post.id) \n        post_imprv_6_exclude = Post.objects.filter(category='self-improvement',sub_category='coaching').exclude(id=post.id) \n        post_imprv_6_other = Post.objects.filter(category='self-improvement').exclude(sub_category='coaching').exclude(id=post.id) \n        post_imprv_7_exclude = Post.objects.filter(category='self-improvement',sub_category='goal setting').exclude(id=post.id) \n        post_imprv_7_other = Post.objects.filter(category='self-improvement').exclude(sub_category='goal setting').exclude(id=post.id) \n        post_imprv_8_exclude = Post.objects.filter(category='self-improvement',sub_category='grief loss').exclude(id=post.id) \n        post_imprv_8_other = Post.objects.filter(category='self-improvement').exclude(sub_category='grief loss').exclude(id=post.id) \n        post_imprv_9_exclude = Post.objects.filter(category='self-improvement',sub_category='happiness').exclude(id=post.id) \n        post_imprv_9_other = Post.objects.filter(category='self-improvement').exclude(sub_category='happiness').exclude(id=post.id) \n        post_imprv_10_exclude = Post.objects.filter(category='self-improvement',sub_category='commitment').exclude(id=post.id) \n        post_imprv_10_other = Post.objects.filter(category='self-improvement').exclude(sub_category='commitment').exclude(id=post.id) \n        post_imprv_11_exclude = Post.objects.filter(category='self-improvement',sub_category='innovation').exclude(id=post.id) \n        post_imprv_11_other = Post.objects.filter(category='self-improvement').exclude(sub_category='innovation').exclude(id=post.id) \n        post_imprv_12_exclude = Post.objects.filter(category='self-improvement',sub_category='inspirational').exclude(id=post.id) \n        post_imprv_12_other = Post.objects.filter(category='self-improvement').exclude(sub_category='inspirational').exclude(id=post.id) \n        post_imprv_13_exclude = Post.objects.filter(category='self-improvement',sub_category='leadership').exclude(id=post.id) \n        post_imprv_13_other = Post.objects.filter(category='self-improvement').exclude(sub_category='leadership').exclude(id=post.id) \n        post_imprv_14_exclude = Post.objects.filter(category='self-improvement',sub_category='mind development').exclude(id=post.id) \n        post_imprv_14_other = Post.objects.filter(category='self-improvement').exclude(sub_category='mind development').exclude(id=post.id)\n        post_imprv_15_exclude = Post.objects.filter(category='self-improvement',sub_category='self esteem').exclude(id=post.id) \n        post_imprv_15_other = Post.objects.filter(category='self-improvement').exclude(sub_category='self esteem').exclude(id=post.id)\n        post_imprv_16_exclude = Post.objects.filter(category='self-improvement',sub_category='stress management').exclude(id=post.id) \n        post_imprv_16_other = Post.objects.filter(category='self-improvement').exclude(sub_category='stress management').exclude(id=post.id)\n        post_imprv_17_exclude = Post.objects.filter(category='self-improvement',sub_category='time management').exclude(id=post.id) \n        post_imprv_17_other = Post.objects.filter(category='self-improvement').exclude(sub_category='time management').exclude(id=post.id)\n        #Tech\n        post_tech_1_exclude = Post.objects.filter(category='technology',sub_category='computers and technology').exclude(id=post.id) \n        post_tech_1_other = Post.objects.filter(category='technology').exclude(sub_category='computers and technology').exclude(id=post.id) \n        post_tech_2_exclude = Post.objects.filter(category='technology',sub_category='data recovery').exclude(id=post.id) \n        post_tech_2_other = Post.objects.filter(category='technology').exclude(sub_category='data recovery').exclude(id=post.id) \n        post_tech_3_exclude = Post.objects.filter(category='technology',sub_category='personal tech').exclude(id=post.id) \n        post_tech_3_other = Post.objects.filter(category='technology').exclude(sub_category='personal tech').exclude(id=post.id) \n        post_tech_4_exclude = Post.objects.filter(category='technology',sub_category='registry cleaners').exclude(id=post.id) \n        post_tech_4_other = Post.objects.filter(category='technology').exclude(sub_category='registry cleaners').exclude(id=post.id) \n        post_tech_5_exclude = Post.objects.filter(category='technology',sub_category='internet protocol').exclude(id=post.id) \n        post_tech_5_other = Post.objects.filter(category='technology').exclude(sub_category='internet protocol').exclude(id=post.id) \n        post_tech_6_exclude = Post.objects.filter(category='technology',sub_category='email autogeneration').exclude(id=post.id) \n        post_tech_6_other = Post.objects.filter(category='technology').exclude(sub_category='email autogeneration').exclude(id=post.id) \n        post_tech_7_exclude = Post.objects.filter(category='technology',sub_category='gmail crack').exclude(id=post.id) \n        post_tech_7_other = Post.objects.filter(category='technology').exclude(sub_category='gmail crack').exclude(id=post.id) \n        post_tech_8_exclude = Post.objects.filter(category='technology',sub_category='special computer softwares').exclude(id=post.id) \n        post_tech_8_other = Post.objects.filter(category='technology').exclude(sub_category='special computer softwares').exclude(id=post.id) \n        post_tech_9_exclude = Post.objects.filter(category='technology',sub_category='format conversion').exclude(id=post.id) \n        post_tech_9_other = Post.objects.filter(category='technology').exclude(sub_category='format conversion').exclude(id=post.id) \n        post_tech_10_exclude = Post.objects.filter(category='technology',sub_category='optimizing operating systems').exclude(id=post.id) \n        post_tech_10_other = Post.objects.filter(category='technology').exclude(sub_category='optimizing operating systems').exclude(id=post.id) \n        post_tech_11_exclude = Post.objects.filter(category='technology',sub_category='software').exclude(id=post.id) \n        post_tech_11_other = Post.objects.filter(category='technology').exclude(sub_category='software').exclude(id=post.id) \n        post_tech_12_exclude = Post.objects.filter(category='technology',sub_category='spyware and viruses').exclude(id=post.id) \n        post_tech_12_other = Post.objects.filter(category='technology').exclude(sub_category='spyware and viruses').exclude(id=post.id) \n        #End\n        post_title = post.title\n        post_content = post.content\n        # ttsx3\n        # audio_translate = gTTS(text=post_content, lang='en')\n        # audio_translate.save(\"hello.mp3\")\n        # to start the file from python\n        # os.system(\"start hello.mp3\")\n        # print(say_it)\n        # print(\"Hello word\")\n        # print(hostname)\n        # print(authors_other_article)\n        # print(Getting_authors_post_count) \n        # post_attachment = get_object_or_404(Attachment, extending=post)\n        # post_attachment = Post.objects.filter(post__extending=post)\n        # very key.. The double dash means you are switching to a different\n        # model and as such the variables or items  inside of that model comes after the __\n        # Then equal it to the contents present in the newmodel like post.[newmodelFieldname]\n        # post_attachment = Attachment.objects.filter(extending__author_name=post.author_name)\n        # post_attachment = Attachment.objects.filter(extending__author_name=post.author_name)\t \n        try:\n                post_ororo = Attachment.objects.get(extending=post.id)\n        \t\n        except Attachment.DoesNotExist:\n        \tpost_ororo = \"No Vids am sorry\"\n        \t\n\n\n        # x = similar_posts_nov\n        # print(x)\n\n        return render(request,'sub-templates/detail_page.html', \n        \t{'post': post,'similar_posts_nov':similar_posts_nov,\"name\":name,'title':title,\n        \t \"getting_authors_post_count\":getting_authors_post_count,\n        \t \"authors_other_article\":authors_other_article,\n        \t \"hostname\":hostname,\n        \t \"post_ororo\":post_ororo,\n        \t # Cancer\n        \t\"post_cancer_1_exclude\":post_cancer_1_exclude,\n        \t\"post_cancer_1_other\":post_cancer_1_other,\n        \t\"post_cancer_2_exclude\":post_cancer_2_exclude,\n        \t\"post_cancer_2_other\":post_cancer_2_other,\n        \t\"post_cancer_3_exclude\":post_cancer_3_exclude,\n        \t\"post_cancer_3_other\":post_cancer_3_other,\n        \t\"post_cancer_4_exclude\":post_cancer_4_exclude,\n        \t\"post_cancer_4_other\":post_cancer_4_other,\n        \t\"post_cancer_5_exclude\":post_cancer_5_exclude,\n        \t\"post_cancer_5_other\":post_cancer_5_other,\n        \t\"post_cancer_6_exclude\":post_cancer_6_exclude,\n        \t\"post_cancer_6_other\":post_cancer_6_other,\n        \t\"post_cancer_7_exclude\":post_cancer_7_exclude,\n        \t\"post_cancer_7_other\":post_cancer_7_other,\n        \t\"post_cancer_8_exclude\":post_cancer_8_exclude,\n        \t\"post_cancer_8_other\":post_cancer_8_other,\n        \t\"post_cancer_9_exclude\":post_cancer_9_exclude,\n        \t\"post_cancer_9_other\":post_cancer_9_other,\n        \t#Internet\n        \t\"post_internet_1_exclude\":post_internet_1_exclude,\n        \t\"post_internet_1_other\":post_internet_1_other,\n        \t\"post_internet_2_exclude\":post_internet_2_exclude,\n        \t\"post_internet_2_other\":post_internet_2_other,\n        \t\"post_internet_3_exclude\":post_internet_3_exclude,\n        \t\"post_internet_3_other\":post_internet_3_other,\n        \t\"post_internet_4_exclude\":post_internet_4_exclude,\n        \t\"post_internet_4_other\":post_internet_4_other,\n        \t\"post_internet_5_exclude\":post_internet_5_exclude,\n        \t\"post_internet_5_other\":post_internet_5_other,\n        \t\"post_internet_6_exclude\":post_internet_6_exclude,\n        \t\"post_internet_6_other\":post_internet_6_other,\n        \t\"post_internet_7_exclude\":post_internet_7_exclude,\n        \t\"post_internet_7_other\":post_internet_7_other,\n        \t\"post_internet_8_exclude\":post_internet_8_exclude,\n        \t\"post_internet_8_other\":post_internet_8_other,\n        \t\"post_internet_9_exclude\":post_internet_9_exclude,\n        \t\"post_internet_9_other\":post_internet_9_other,\n        \t\"post_internet_10_exclude\":post_internet_10_exclude,\n        \t\"post_internet_10_other\":post_internet_10_other,\n        \t\"post_internet_11_exclude\":post_internet_11_exclude,\n        \t\"post_internet_11_other\":post_internet_11_other,\n        \t\"post_internet_12_exclude\":post_internet_12_exclude,\n        \t\"post_internet_12_other\":post_internet_12_other,\n        \t #Finance\n        \t\"post_finance_1_exclude\":post_finance_1_exclude,\n        \t\"post_finance_1_other\":post_finance_1_other,\n        \t\"post_finance_2_exclude\":post_finance_2_exclude,\n        \t\"post_finance_2_other\":post_finance_2_other,\n        \t\"post_finance_3_exclude\":post_finance_3_exclude,\n        \t\"post_finance_3_other\":post_finance_3_other,\n        \t\"post_finance_4_exclude\":post_finance_4_exclude,\n        \t\"post_finance_4_other\":post_finance_4_other,\n        \t\"post_finance_5_exclude\":post_finance_5_exclude,\n        \t\"post_finance_5_other\":post_finance_5_other,\n        \t\"post_finance_6_exclude\":post_finance_6_exclude,\n        \t\"post_finance_6_other\":post_finance_6_other,\n        \t\"post_finance_7_exclude\":post_finance_7_exclude,\n        \t\"post_finance_7_other\":post_finance_7_other,\n        \t\"post_finance_8_exclude\":post_finance_8_exclude,\n        \t\"post_finance_8_other\":post_finance_8_other,\n        \t\"post_finance_9_exclude\":post_finance_9_exclude,\n        \t\"post_finance_9_other\":post_finance_9_other,\n        \t\"post_finance_10_exclude\":post_finance_10_exclude,\n        \t\"post_finance_10_other\":post_finance_10_other,\n        \t\"post_finance_11_exclude\":post_finance_11_exclude,\n        \t\"post_finance_11_other\":post_finance_11_other,\n        \t\"post_finance_12_exclude\":post_finance_12_exclude,\n        \t\"post_finance_12_other\":post_finance_12_other,\n        \t\"post_finance_13_exclude\":post_finance_13_exclude,\n        \t\"post_finance_13_other\":post_finance_13_other,\n        \t\"post_finance_14_exclude\":post_finance_14_exclude,\n        \t\"post_finance_14_other\":post_finance_14_other,\n        \t#Invest\n        \t\"post_invest_1_exclude\":post_invest_1_exclude,\n        \t\"post_invest_1_other\":post_invest_1_other,\n        \t\"post_invest_2_exclude\":post_invest_2_exclude,\n        \t\"post_invest_2_other\":post_invest_2_other,\n        \t\"post_invest_3_exclude\":post_invest_3_exclude,\n        \t\"post_invest_3_other\":post_invest_3_other,\n        \t\"post_invest_4_exclude\":post_invest_4_exclude,\n        \t\"post_invest_4_other\":post_invest_4_other,\n        \t\"post_invest_5_exclude\":post_invest_5_exclude,\n        \t\"post_invest_5_other\":post_invest_5_other,\n        \t\"post_invest_6_exclude\":post_invest_6_exclude,\n        \t\"post_invest_6_other\":post_invest_6_other,\n        \t#Eco\n        \t\"post_eco_1_exclude\":post_eco_1_exclude,\n        \t\"post_eco_1_other\":post_eco_1_other,\n        \t\"post_eco_2_exclude\":post_eco_2_exclude,\n        \t\"post_eco_2_other\":post_eco_2_other,\n        \t\"post_eco_3_exclude\":post_eco_3_exclude,\n        \t\"post_eco_3_other\":post_eco_3_other,\n        \t\"post_eco_4_exclude\":post_eco_4_exclude,\n        \t\"post_eco_4_other\":post_eco_4_other,\n        \t\"post_eco_5_exclude\":post_eco_5_exclude,\n        \t\"post_eco_5_other\":post_eco_5_other,\n        \t\"post_eco_6_exclude\":post_eco_6_exclude,\n        \t\"post_eco_6_other\":post_eco_6_other,\n        \t\"post_eco_7_exclude\":post_eco_7_exclude,\n        \t\"post_eco_7_other\":post_eco_7_other,\n        \t\"post_eco_8_exclude\":post_eco_8_exclude,\n        \t\"post_eco_8_other\":post_eco_8_other,\n        \t\"post_eco_9_exclude\":post_eco_9_exclude,\n        \t\"post_eco_9_other\":post_eco_9_other,\n        \t#Programming\n        \t\"post_progg_1_exclude\":post_progg_1_exclude,\n        \t\"post_progg_1_other\":post_progg_1_other,\n        \t\"post_progg_2_exclude\":post_progg_2_exclude,\n        \t\"post_progg_2_other\":post_progg_2_other,\n        \t\"post_progg_3_exclude\":post_progg_3_exclude,\n        \t\"post_progg_3_other\":post_progg_3_other,\n        \t\"post_progg_4_exclude\":post_progg_4_exclude,\n        \t\"post_progg_4_other\":post_progg_4_other,\n        \t\"post_progg_5_exclude\":post_progg_5_exclude,\n        \t\"post_progg_5_other\":post_progg_5_other,\n        \t\"post_progg_6_exclude\":post_progg_6_exclude,\n        \t\"post_progg_6_other\":post_progg_6_other,\n        \t\"post_progg_7_exclude\":post_progg_7_exclude,\n        \t\"post_progg_7_other\":post_progg_7_other,\n        \t\"post_progg_8_exclude\":post_progg_8_exclude,\n        \t\"post_progg_8_other\":post_progg_8_other,\n        \t\"post_progg_9_exclude\":post_progg_9_exclude,\n        \t\"post_progg_9_other\":post_progg_9_other,\n        \t\"post_progg_10_exclude\":post_progg_10_exclude,\n        \t\"post_progg_10_other\":post_progg_10_other,\n        \t#Relationship\n        \t\"post_relate_1_exclude\":post_relate_1_exclude,\n        \t\"post_relate_1_other\":post_relate_1_other,\n        \t\"post_relate_2_exclude\":post_relate_2_exclude,\n        \t\"post_relate_2_other\":post_relate_2_other,\n        \t\"post_relate_3_exclude\":post_relate_3_exclude,\n        \t\"post_relate_3_other\":post_relate_3_other,\n        \t\"post_relate_4_exclude\":post_relate_4_exclude,\n        \t\"post_relate_4_other\":post_relate_4_other,\n        \t\"post_relate_5_exclude\":post_relate_5_exclude,\n        \t\"post_relate_5_other\":post_relate_5_other,\n        \t\"post_relate_6_exclude\":post_relate_6_exclude,\n        \t\"post_relate_6_other\":post_relate_6_other,\n        \t\"post_relate_7_exclude\":post_relate_7_exclude,\n        \t\"post_relate_7_other\":post_relate_7_other,\n        \t\"post_relate_8_exclude\":post_relate_8_exclude,\n        \t\"post_relate_8_other\":post_relate_8_other,\n        \t\"post_relate_9_exclude\":post_relate_9_exclude,\n        \t\"post_relate_9_other\":post_relate_9_other,\n        \t\"post_relate_10_exclude\":post_relate_10_exclude,\n        \t\"post_relate_10_other\":post_relate_10_other,\n        \t\"post_relate_11_exclude\":post_relate_11_exclude,\n        \t\"post_relate_11_other\":post_relate_11_other,\n        \t\"post_relate_12_exclude\":post_relate_12_exclude,\n        \t\"post_relate_12_other\":post_relate_12_other,\n        \t\"post_relate_13_exclude\":post_relate_13_exclude,\n        \t\"post_relate_13_other\":post_relate_13_other,\n        \t\"post_relate_14_exclude\":post_relate_14_exclude,\n        \t\"post_relate_14_other\":post_relate_14_other,\n        \t#SelfImprv\n        \t\"post_imprv_1_exclude\":post_imprv_1_exclude,\n        \t\"post_imprv_1_other\":post_imprv_1_other,\n        \t\"post_imprv_2_exclude\":post_imprv_2_exclude,\n        \t\"post_imprv_2_other\":post_imprv_2_other,\n        \t\"post_imprv_3_exclude\":post_imprv_3_exclude,\n        \t\"post_imprv_3_other\":post_imprv_3_other,\n        \t\"post_imprv_4_exclude\":post_imprv_4_exclude,\n        \t\"post_imprv_4_other\":post_imprv_4_other,\n        \t\"post_imprv_5_exclude\":post_imprv_5_exclude,\n        \t\"post_imprv_5_other\":post_imprv_5_other,\n        \t\"post_imprv_6_exclude\":post_imprv_6_exclude,\n        \t\"post_imprv_6_other\":post_imprv_6_other,\n        \t\"post_imprv_7_exclude\":post_imprv_7_exclude,\n        \t\"post_imprv_7_other\":post_imprv_7_other,\n        \t\"post_imprv_8_exclude\":post_imprv_8_exclude,\n        \t\"post_imprv_8_other\":post_imprv_8_other,\n        \t\"post_imprv_9_exclude\":post_imprv_9_exclude,\n        \t\"post_imprv_9_other\":post_imprv_9_other,\n        \t\"post_imprv_10_exclude\":post_imprv_10_exclude,\n        \t\"post_imprv_10_other\":post_imprv_10_other,\n        \t\"post_imprv_11_exclude\":post_imprv_11_exclude,\n        \t\"post_imprv_11_other\":post_imprv_11_other,\n        \t\"post_imprv_12_exclude\":post_imprv_12_exclude,\n        \t\"post_imprv_12_other\":post_imprv_12_other,\n        \t\"post_imprv_13_exclude\":post_imprv_13_exclude,\n        \t\"post_imprv_13_other\":post_imprv_13_other,\n        \t\"post_imprv_14_exclude\":post_imprv_14_exclude,\n        \t\"post_imprv_14_other\":post_imprv_14_other,\n        \t\"post_imprv_15_exclude\":post_imprv_15_exclude,\n        \t\"post_imprv_15_other\":post_imprv_15_other,\n        \t\"post_imprv_16_exclude\":post_imprv_16_exclude,\n        \t\"post_imprv_16_other\":post_imprv_16_other,\n        \t\"post_imprv_17_exclude\":post_imprv_17_exclude,\n        \t\"post_imprv_17_other\":post_imprv_17_other,\n        \t#Tech\n        \t\"post_tech_1_exclude\":post_tech_1_exclude,\n        \t\"post_tech_1_other\":post_tech_1_other,\n        \t\"post_tech_2_exclude\":post_tech_2_exclude,\n        \t\"post_tech_2_other\":post_tech_2_other,\n        \t\"post_tech_3_exclude\":post_tech_3_exclude,\n        \t\"post_tech_3_other\":post_tech_3_other,\n        \t\"post_tech_4_exclude\":post_tech_4_exclude,\n        \t\"post_tech_4_other\":post_tech_4_other,\n        \t\"post_tech_5_exclude\":post_tech_5_exclude,\n        \t\"post_tech_5_other\":post_tech_5_other,\n        \t\"post_tech_6_exclude\":post_tech_6_exclude,\n        \t\"post_tech_6_other\":post_tech_6_other,\n        \t\"post_tech_7_exclude\":post_tech_7_exclude,\n        \t\"post_tech_7_other\":post_tech_7_other,\n        \t\"post_tech_8_exclude\":post_tech_8_exclude,\n        \t\"post_tech_8_other\":post_tech_8_other,\n        \t\"post_tech_9_exclude\":post_tech_9_exclude,\n        \t\"post_tech_9_other\":post_tech_9_other,\n        \t\"post_tech_10_exclude\":post_tech_10_exclude,\n        \t\"post_tech_10_other\":post_tech_10_other,\n        \t\"post_tech_11_exclude\":post_tech_11_exclude,\n        \t\"post_tech_11_other\":post_tech_11_other,\n        \t\"post_tech_12_exclude\":post_tech_12_exclude,\n        \t\"post_tech_12_other\":post_tech_12_other,\n        #End\n\n        \t})\n\ndef article_detail_dec(request,id,archieve_year,slug_for_title):\n        title = \"Detail\" \n        post = get_object_or_404(Post,id=id,archieve_year=archieve_year,)\n        if slug_for_title == post.slug_for_title:\n                pass\n        else:\n                return HttpResponse(\"Not found\")\n        similar_posts_dec = Post.archive_published.filter(archieve_month= 'december',archieve_year=\"2018\").exclude(id=post.id)\n        return render(request,'sub-templates/detail_page.html', \n        {'post': post,'similar_posts_dec':similar_posts_dec,\"name\":name,'title':title\n\n        })\n\n#This is a large content-feed\ndef auto_selective(request):\n\ttitle = \"Ex.Detail\"\n\treturn render(request, 'sub-templates/selective.html',{\"title\":title,\"name\":name})\n\n\ndef get_your_copy(request,slug_for_title,post_code):\n        title = \"PDF View\"\n        post = get_object_or_404(Post,post_code=post_code)\n        if slug_for_title == post.slug_for_title:\n                pass\n        else:\n                return HttpResponse(\"Not found\")\n        post_title = post.title\n        similar_posts_nov = Post.archive_published.filter(archieve_month= 'november',archieve_year=\"2018\").exclude(id=post.id)\n        getting_authors_post_count = Post.objects.filter(author_name=post.author_name).all().count()\n        authors_other_article = Post.objects.filter(author_name=post.author_name).all().exclude(id=post.id)\n        logo = Logo.objects.all()\n        hostname = request.get_host()\n        template = get_template('sub-templates/generated_pdf.html')\n        context = {\n        \"post\":post,\n        \"logo\":logo,\n        \"title\":title,\n        \"name\":name,\n        \"getting_authors_post_count\":getting_authors_post_count,\n        \"authors_other_article\":authors_other_article,\n        }\n        html = template.render(context)\n        pdf = render_to_pdf('sub-templates/generated_pdf.html', context)\n        if pdf:\n                response = HttpResponse(pdf, content_type='application/pdf')\n\t    # Does not work smoothly with firefox,chrome works best in times of filename or so.\n                filename = \"%s_article.pdf\" %(post_title)\n                content = \"inline; filename=%s\" %(filename)\n                download = request.GET.get(\"download\")\n                if download:\n                        content = \"attachment; filename='%s'\" %(filename)\n                response['Content-Disposition'] = content\n                return response\n        return HttpResponse(\"Not found\")\n\n\t#Completed\n\ndef contact_us(request,pk=None):\n        if request.user.is_authenticated():\n                usermail = request.user.email\n                useremailname = request.user\n                first_name = request.user.first_name\n                last_name = request.user.last_name\n                myForm = contactForm(request.POST or None)\n                confirm_message = None\n                title = \"Contact\"\n                title1 = \"Contact\"\n                user = ''\n                if myForm.is_valid():\n                        # i really do not wanna save yet.\n                        myForm.save(commit=False)\n                        user = request.user\n                        name = useremailname\n                        subject = myForm.cleaned_data['subject']\n                        comment = myForm.cleaned_data['comment']\n                        ticket = myForm.cleaned_data['ticket_code']\n                        emailFrom = usermail\n                        emailTo = settings.EMAIL_HOST_USER \n                        title = 'ThankYou'\n                        title1 = \" Thank You ! \"\n                        with open(settings.BASE_DIR + \"/templates/partials_nav/contact_email.txt\") as contact_email_txt_file:\n                                contact_message = contact_email_txt_file.read()\n                        message1 = EmailMultiAlternatives(subject=subject, body=contact_message,from_email= emailFrom, to=[emailTo,] )\n                        html_template1 = get_template(\"partials_nav/contact_email.html\").render({\"to_email\":[emailTo,],\"subject\":subject,\"comment\":comment,\"ticket\":ticket,\"user\":user, \"emailFrom\":emailFrom,\"name\":name,\"title\":title,})\n                        message1.attach_alternative(html_template1, \"text/html\")\n                        message1.send()\n                        html_template = get_template(\"partials_nav/contact_msg.html\").render({\"ticket\":ticket,})\n                        messages.success(request, html_template,\"alert alert-success alert-dismissible\")\n                        form = None\n                        # After sending successfully, do save. \n                        myForm.save()\n                        return redirect(reverse(\"mainsec:index\"))\n\n                        \n\n\n                context = {\n\n                \"myForm\":myForm,\n                'title':title,\n                'title1':title1,\n                'usermail':usermail,\n                'first_name':first_name,\n                'last_name':last_name,\n\n                }\n                return render(request, \"partials_nav/contact.html\", context)\n        else:\n                myForm = contactForm(request.POST or None)\n                confirm_message= None\n                title = \"Contact\"\n                title1 = \"Contact\"\n                if myForm.is_valid():\n                        myForm.save(commit=False)\n                        name = \"un-authenticated user\"\n                        subject = myForm.cleaned_data['subject']\n                        comment = myForm.cleaned_data['comment']\n                        ticket = myForm.cleaned_data['ticket_code']\n                        emailFrom = \"Anonymous User\"\n                        message = 'Message : %s ; commented by %s.' % (comment,name ) \n                        emailTo= [settings.EMAIL_HOST_USER,]\n                        send_mail(\n                        subject,\n                        message,\n                        emailFrom,\n                        emailTo,\n                        fail_silently=True\n                        )\n                        title = 'ThankYou'\n                        title1 = \" Thank You ! \"\n                        html_template = get_template(\"partials_nav/contact_msg.html\").render({\"ticket\":ticket,})\n                        messages.success(request, html_template,\n                                \"alert alert-success alert-dismissible\")\n                        form = None\n                        myForm.save()\n                        return redirect(reverse(\"mainsec:index\"))\n\n\n                context = {\n\n                \"myForm\":myForm,\n                'title':title,\n                'title1':title1,\n\n                }\n                return render(request, \"partials_nav/contact.html\", context)\n\ndef search_redirect(request):\n        title = \"Search Portal\"\n        return render(request, 'partials/searchportal.html', {\"title\":title, \"name\":name,})\n\n\ndef search(request):\n        title = \"Search\"\n        if 'yoursearchquery' in request.GET and request.GET['yoursearchquery']:\n            myquery = request.GET['yoursearchquery']\n            post = Post.objects.filter(\n            Q(title__icontains=myquery)|\n            Q(content__icontains=myquery)|\n            Q(timestamp__icontains=myquery)|\n            Q(post_code__icontains=myquery)\n            ).all()\n\n            return render(request, 'sub-templates/search.html', {'post': post,'query': myquery,\"title\":title, \"name\":name,})\n\n\ndef pdfgiveaway(request):\n        title = \"Give Away\" \n        giveaway = PdfGiveAway.objects.all()\n        template = 'newsletter/pdf.html'\n        context = {\n        \"title\":title,\n        \"name\":name,\n        \"giveaway\":giveaway,\n        }\n        return render(request,template,context)\nfrom django_currentuser.middleware import (\n    get_current_user, get_current_authenticated_user)\n\ndef authorshipform(request,pk=None):\n        if request.user.is_authenticated():\n                user = request.user\n                usermail = request.user.email\n                first_name = request.user.first_name\n                last_name = request.user.last_name\n                confirm_message = None\n                header = \"Author's Authentication Request\"\n                title = \"Authorship Form\"\n                form = AuthorizationForm(request.POST or None)\n                if form.is_valid():\n                        # i really do not wanna save yet.\n                        form.save(commit=False)\n                        keep_track = form.cleaned_data['keep_track']\n                        comment = form.cleaned_data['reason']\n                        ticket = form.cleaned_data['date_requested']\n                        agreement = form.cleaned_data[\"agreement\"]\n                        emailFrom = usermail\n                        emailTo = settings.EMAIL_HOST_USER \n                        emailUser = usermail\n                        emailSender = settings.EMAIL_HOST_USER \n                        title = 'ThankYou'\n                        title1 = \" Thank You ! \"\n                        with open(settings.BASE_DIR + \"/templates/partials_nav/author_email.txt\") as contact_email_txt_file:\n                                contact_message = contact_email_txt_file.read()\n                        with open(settings.BASE_DIR + \"/templates/partials_nav/author_email_user.txt\") as contact_email_user_txt_file:\n                                author_message = contact_email_user_txt_file.read()\n                        message1 = EmailMultiAlternatives(subject=header, body=contact_message,from_email= emailFrom, to=[emailTo,] )\n                        message2 = EmailMultiAlternatives(subject=header, body=author_message,from_email=emailSender, to=[emailUser,] )\n                        html_template1 = get_template(\"partials_nav/author_email.html\").render({\"to_email\":[emailTo,],\"keep_track\":keep_track,\"user\":user,\"header\":header,\"comment\":comment,\"ticket\":ticket, \"emailFrom\":emailFrom,\"name\":name,\"title\":title,})\n                        html_template2 = get_template(\"partials_nav/author_email_user.html\").render({\"to_email\":[emailSender,],\"keep_track\":keep_track,\"user\":user,\"header\":header,\"comment\":comment,\"ticket\":ticket, \"emailFrom\":emailFrom,\"name\":name,\"title\":title,})\n                        message1.attach_alternative(html_template1, \"text/html\")\n                        message2.attach_alternative(html_template2, \"text/html\")\n                        form.save()\n                        message1.send()\n                        message2.send()\n                        html_template = get_template(\"partials_nav/author_msg.html\").render({\"ticket\":ticket,})\n                        messages.success(request, html_template,\"alert alert-success alert-dismissible\")\n                        form = None \n                        return redirect(reverse(\"mainsec:index\"))\n                context = {\n\n                \"form\":form,\n                \"get_current_user\":get_current_user,\n                'title':title,\n                'usermail':usermail,\n                'first_name':first_name,\n                'last_name':last_name,\n\n                }\n                return render(request,  'articles/authorshipform.html', context)\n\n        # title = \"Authorship Form\"\n        # form = AuthorizationForm(request.POST or None, request.FILES or None )\n        # if request.method == \"POST\":\n        #         if form.is_valid():       \n        #                 instance.save()\n        #                 template = get_template('articles/success_update.html').render()\n        #                 messages.success(request, template,\"alert alert-success alert-dismissible\")\n        #                 return redirect(reverse(\"mainsec:index\"))\n        #         else:\n        #                 template = get_template('articles/not_allowed_msg.html').render()\n        #                 messages.warning(request, template,\"alert alert-warning alert-dismissible\")\n        #                 return redirect(reverse(\"mainsec:index\"))\n\n\ndef editorial_guidline(request):\n        title = \"Editorial Guidelines\" \n        context = {\n        \"title\":title,\n        \"name\":name,\n        \"get_current_user\":get_current_user,\n        }\n        template = 'partials/editorial.html'\n        return render(request,template,context)\n\n\ndef article_name_guidline(request):\n        title = \"Article Name\" \n        context = {\n        \"title\":title,\n        \"name\":name,\n        \"get_current_user\":get_current_user,\n        }\n        template = 'partials/article_name.html'\n        return render(request,template,context)\n\ndef category_guidline(request):\n        title = \"Category Guidlines\" \n        context = {\n        \"title\":title,\n        \"name\":name,\n        \"get_current_user\":get_current_user,\n        }\n        template = 'partials/category_guidlines.html'\n        return render(request,template,context)\n\n\n\n\n\n",
+			"file": "/E/views.py",
+			"file_size": 65669,
+			"file_write_time": 131931105640000000,
+			"settings":
+			{
+				"buffer_size": 65669,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/account",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/index",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/media_cdn",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/school",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator"
+	],
+	"file_history":
+	[
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/school/settings.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/old_view.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/models.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/register.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/query_student_term.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/school/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/project3.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/admin.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/views.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/forms.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/base.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/news.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/latestnews.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/news.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/index/views.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/student_result.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/check_result.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/utils.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/question.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/update_db.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/pin.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/generatepin.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/account/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/messagebox.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/static/js/new.js",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/account/views.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/startbootstrap-sb-admin-2-gh-pages/pages/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/change_current_session.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/addsession.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/session.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/addterm.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/base2.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/price.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/contact.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/about.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/index/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/account/logged_out.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/account/logout.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/account/login.html",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/scrape_eng2.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/practice_python.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/base.html",
+		"/C/Users/omonbude/Documents/coding/project/jb app/project.py",
+		"/C/Users/omonbude/AppData/Local/Microsoft/Windows/INetCache/IE/QAJAG71N/scrape_eng1[1].py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/test.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/rough2.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/startbootstrap-sb-admin-2-gh-pages/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/test.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/term.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/query_general_result.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/generate_Result.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/class.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/queryresult.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/addresult.html",
+		"/C/Users/omonbude/Documents/coding/project/jb app/project2.py",
+		"/E/scrape2.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/scrape.py",
+		"/C/Users/omonbude/Documents/coding/project/faster-load.txt",
+		"/C/Users/omonbude/Documents/coding/project/school management/templates/free-educational-responsive-web-template-webEdu/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/templates/bona/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/account/forms.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/administrator.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/account/base.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/New folder/website/school/administrator/models.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/New folder/website/school/school/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/templates/rough.html",
+		"/E/gt",
+		"/C/Users/omonbude/Documents/coding/PyQt/PyQt5_gpl-5.11.2/examples/graphicsview/embeddeddialogs/embeddeddialogs.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/movie.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/cart/views.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/test.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/test2.py",
+		"/E/login.py",
+		"/C/Users/omonbude/Documents/test.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/views.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/models.py",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough2.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/startbootstrap-heroic-features-master/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/style.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/css/style.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/text.txt",
+		"/C/Users/omonbude/Documents/coding/project/a treat/magnews/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/Index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/forms.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/admin.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/atreat/settings.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough5.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough.txt",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_email.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_email.txt",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/template/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_success.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_code.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/reset_password_email2.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/static/css/news.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/static/css/news_responsive.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/static/css/main_style.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/base.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/magnews/css/style.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/home.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/meal-detail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/models.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/admin.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/magnews/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/jcarousel.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/flexslider.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/custom-fonts.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/cslider.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/bootstrap-responsive.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/bootstrap.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/animate.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Gomez/index.html",
+		"/E/New Text Document.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/components.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/careers.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/contact.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/agsmeis.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/services.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"/Users/jmitch/Dropbox/cfe/v2/src",
+			"/Users/cfe/Dev/djangular/client/src/app",
+			"/Users/jmitch/Desktop/ecommerce-2/src",
+			"/Users/jmitch/Dropbox/projects/kpj",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"/Users/jmitch/Dropbox/projects/",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"<open files>",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"/Users/jmitch/Dropbox/projects/kpj",
+			"/Users/jmitch/Dropbox/cfe/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"4",
+			"Gallery",
+			"newsdetails",
+			"messages",
+			"newsdetails",
+			"news",
+			"active",
+			"session",
+			"student_result",
+			"messages",
+			"student_result",
+			"GeneralResult",
+			"student_result",
+			"Generate Position",
+			"Profile",
+			"generate_average",
+			"generate_Result",
+			"generate_result",
+			"query_general_result",
+			"generate",
+			"messages",
+			"query_general_result",
+			"generate_Result",
+			"GeneralResult",
+			"Student_subject",
+			"ok",
+			"specific_sub",
+			"ok",
+			"def(ok",
+			"student",
+			"specific_sub",
+			"PromoteStudent",
+			"promote",
+			"query_general_result",
+			"query_result",
+			"generate_course",
+			"add_result",
+			"generate_course",
+			"messages",
+			"generate_course",
+			"add_result",
+			"change_current_session",
+			"messages",
+			"change_current_session",
+			"QueryPromoteStudent",
+			"messages",
+			"QueryPromoteStudent",
+			"promote",
+			"GeneralResult",
+			"result",
+			"query_general_result",
+			"query_result",
+			"query",
+			"change_student_term",
+			"messages",
+			"change_student_term",
+			"session",
+			"AddSessionForm",
+			"add_session",
+			"messages",
+			"add_session",
+			"add_student",
+			"news",
+			"messages",
+			"News",
+			"news",
+			"query_student",
+			"query",
+			"=\"\"",
+			"query",
+			"promote",
+			"NewsUpdate",
+			"news",
+			"EDIT",
+			"Profile",
+			"profile",
+			"edit",
+			"add_re",
+			"add",
+			"messages",
+			"query",
+			"NewsUpdate",
+			"news",
+			"Generate",
+			"query",
+			"json",
+			"add_result",
+			"block",
+			"textEdit_7",
+			"session",
+			"request.POST.get",
+			"name",
+			"copy",
+			"get_template",
+			"get_your_copy",
+			"copy",
+			"GeneralResult",
+			"No in",
+			"offer",
+			"generate_Result",
+			"offer",
+			"json",
+			"Student_subject",
+			"Student_subject\n",
+			"Student_subject",
+			"generate",
+			"average",
+			"class",
+			"StudentResult",
+			"POST",
+			"pin",
+			".id",
+			"id",
+			"for",
+			"get",
+			"all()",
+			"2000",
+			"167",
+			"update",
+			"label_9",
+			"MATHEMATICS2011",
+			"label_10",
+			"label_10\\",
+			"label_10",
+			"connection",
+			"MainWindow",
+			"sender"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CHEMISTRY2004",
+			"\"/static/ang/assets/",
+			".cfe-load-comments",
+			"jmitch=#",
+			"'",
+			"ecommerce2",
+			"Control Guidance Solutions, LLC",
+			"class=\"fa fa-check fa-2x\"",
+			"img/apple-touch-icon-152.png",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 40,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "school/templates/gallery.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "school/index/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "school/index/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "school/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10106,
+								10106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "school/templates/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "school/templates/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2315,
+								2100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 611.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "school/templates/administrator/editnews.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "school/templates/administrator/newsdetails.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "school/administrator/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2009,
+								2009
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 94.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "school/administrator/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15422,
+								15430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6716.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "school/templates/administrator/news.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "school/administrator/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "school/school/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1024,
+								1024
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "school/templates/administrator/student_result.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								857,
+								645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 41.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "school/administrator/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4378,
+								4378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2217.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "school/templates/administrator/base2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2544,
+								2544
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 698.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "school/templates/administrator/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10025,
+								10025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3223.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "school/templates/administrator/query_general_result.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "school/templates/administrator/generateposition.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "school/templates/administrator/queryresult.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "school/templates/administrator/addresult.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "school/templates/news.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 233.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "school/templates/administrator/promote.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "school/templates/administrator/change_student_term.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "school/templates/administrator/query_student_term.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "school/templates/administrator/register.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "school/templates/administrator/session.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "school/templates/administrator/latestnews.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "school/templates/administrator/student.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								785,
+								804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 147.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "school/templates/administrator/query_student.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2117,
+								2117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1290.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "school/templates/administrator/select_student.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "school/administrator/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/C/Users/omonbude/Documents/coding/project/a treat/atreat4u/atreat4u/account/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4053,
+								4386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1481.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/C/Users/omonbude/Documents/coding/project/a treat/atreat4u/atreat4u/templates/account/edit_profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/C/Users/omonbude/Documents/coding/project/a treat/atreat4u/atreat4u/account/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6306,
+								6306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2179.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "school/templates/administrator/edit_student.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "school/templates/administrator/generate_course.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "school/templates/index2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3646,
+								3599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1319.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "school/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1652,
+								1436
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 346.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "school/account/views.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "school/templates/web-origi.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15862,
+								15862
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{% load staticfiles %}",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5666.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "school/templates/administrator/generatecourse.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "/E/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11929,
+								11942
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1818.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "/E/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55272,
+								55272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11636.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 508.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"atreat\\templates\\index.html"
+			],
+			[
+				"email",
+				"templates/team/email_instructions.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

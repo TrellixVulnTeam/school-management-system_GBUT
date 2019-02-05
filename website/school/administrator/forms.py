@@ -1,6 +1,7 @@
 from django import forms
-from .models import Session, Student, CurrentTerm, CurrentSession, NewsUpdate
+from .models import Session, Student, CurrentTerm, CurrentSession, News
 from ckeditor.widgets import CKEditorWidget
+#from ckeditor_uploader.widgets import CKEditorWidget, CKEditorUploadingWidget
 class AddSessionForm(forms.ModelForm):
 	class Meta:
 		model = Session
@@ -25,10 +26,18 @@ class CheckResultForm(forms.Form):
 	Registration_Number = forms.CharField(max_length=100)
 	Pin = forms.CharField(max_length=100)
 
-class NewsUpdateForm(forms.ModelForm):
+# class NewsUpdateForm(forms.ModelForm):
+# 	class Meta:
+# 		model = NewsUpdate
+# 		fields = ['title', 'body', 'status']
+# 		widgets = {
+# 		'body': CKEditorWidget()
+# 		}
+
+class NewsForm(forms.ModelForm):
 	class Meta:
-		model = NewsUpdate
-		fields = ['title', 'body']
+		model = News
+		fields = ['title', 'body', 'status']
 		widgets = {
 		'body': CKEditorWidget()
 		}

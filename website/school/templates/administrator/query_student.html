@@ -1,0 +1,128 @@
+{% extends 'administrator/base.html' %}
+{% load crispy_forms_tags %}
+{% block text %}
+
+
+
+<form action="{% url 'administrator:students' %}" method="POST">{% csrf_token %}
+  <table>
+  <tr>
+    <td> 
+      <h4>Select Details</h4>
+    <select name='session' style="width: 150px;">      
+    <option>Select a session</option>
+    {% for i in all_sessions %}
+      <option>{{i}}</option>
+    {% endfor %}      
+    </select>
+
+     <select name='class' style="width: 150px;">
+      <option>kg1</option> 
+      <option>kg2</option> 
+      <option>kg3</option> 
+      <option>kg1</option> 
+      <option>pry1</option> 
+      <option>pry2</option> 
+      <option>pry3</option> 
+      <option>pry4</option> 
+      <option>pry5</option> 
+      <option>pry6</option> 
+      <option>jss1</option> 
+      <option>jss2</option> 
+      <option>jss3</option> 
+      <option>sss1</option> 
+      <option>sss2</option> 
+      <option>sss3</option>       
+    </select>
+
+
+     <select name='term' style="width: 150px;">      
+      <option>Select a term</option>
+      {% for i in all_terms %}
+        <option>{{i.term}}</option>
+      {% endfor %}      
+      </select>     
+    </td>
+   
+  </tr>
+
+</table>
+
+   <input type="submit" value="Go">
+</form>
+
+<hr>
+<form action="{% url 'administrator:select_student' %}" method="POST">{% csrf_token %}
+  <table>
+  <tr>
+    <td> 
+      <h4>Search By SurName</h4>
+      <input type="text" name="surname">
+    </td>
+   
+  </tr>
+
+</table>
+
+   <input type="submit" value="Go">
+</form>
+
+<hr>
+
+<form action="{% url 'administrator:select_student' %}" method="POST">{% csrf_token %}
+  <table>
+  <tr>
+    <td> 
+      <h4>Search By Firstname</h4>
+      <input type="text" name="firstname">
+    </td>
+   
+  </tr>
+
+</table>
+
+   <input type="submit" value="Go">
+</form>
+
+<hr>
+
+<form action="{% url 'administrator:select_student' %}" method="POST">{% csrf_token %}
+  <table>
+  <tr>
+    <td> 
+      <h4>Search By Middlename</h4>
+      <input type="text" name="middename">
+    </td>
+   
+  </tr>
+
+</table>
+
+   <input type="submit" value="Go">
+</form>
+
+<hr>
+
+<form action="{% url 'administrator:select_student' %}" method="POST">{% csrf_token %}
+  <table>
+  <tr>
+    <td> 
+      <h4>Search By Registration Number</h4>
+      <input type="text" name="registrationnumber">
+    </td>
+   
+  </tr>
+
+</table>
+
+   <input type="submit" value="Go">
+</form>
+
+<hr>
+
+
+
+
+
+
+{% endblock %}

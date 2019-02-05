@@ -1,8 +1,15 @@
 {% extends 'administrator/base.html' %}
 {% block text %}
-Generate Result for: 
+Generate Average For: 
 Session: {{current_session.session}}<br>
 Term: {{term.term.term}}<br>
+{% if messages %}
+<ul class="messages">
+{% for message in messages %}
+<li class="{{ message.tags }} well">{{ message }}</li>
+{% endfor %}
+</ul>
+{% endif %}
 
 Select class: <form action="{% url 'administrator:generate_Result' %}" method="POST">{% csrf_token %}
     <select name='select_class' style="width: 150px;">

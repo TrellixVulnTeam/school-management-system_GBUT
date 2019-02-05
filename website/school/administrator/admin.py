@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Session, Myclass, Subject, Student, Term,Student_subject, CurrentSession, CurrentTerm, GeneralResult, GeneratePin, SchoolLogo
+from .models import Session, Myclass, Subject, Student, Term,Student_subject, CurrentSession, CurrentTerm, GeneralResult, GeneratePin, SchoolLogo,News
 
 
 
@@ -10,6 +10,7 @@ admin.site.register(Subject)
 admin.site.register(CurrentSession)
 admin.site.register(CurrentTerm)
 admin.site.register(SchoolLogo)
+admin.site.register(News)
 
 
 
@@ -24,7 +25,7 @@ class Student_subjectAdmin(admin.ModelAdmin):
 class GeneralResultAdmin(admin.ModelAdmin):
 	list_display = ['surname', 'average', 'position', 'percentage']
 class StudentAdmin(admin.ModelAdmin):
-	list_display = ['surname', 'first_name', 'Registration_Number', 'pin', 'current_class', 'current_session', 'current_term']
+	list_display = ['surname', 'first_name', 'average', 'Registration_Number', 'id', 'pin', 'current_class', 'current_session', 'current_term']
 
 class GeneratePinAdmin(admin.ModelAdmin):
 	list_display = ['Registration_Number', 'current_session', 'current_class', 'pin']
