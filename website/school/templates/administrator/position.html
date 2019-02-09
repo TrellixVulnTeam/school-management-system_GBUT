@@ -1,0 +1,84 @@
+{% extends 'administrator/base.html' %}
+{% block text %}
+{% load crispy_forms_tags %}
+{% load staticfiles %}
+
+
+<input style="visibility: hidden;" id='myToken' name="" value="{{csrf_token}}">
+<div class="col-sm-12">
+<div class="container-fluid">
+  <h2>Data for </h2>
+
+    <img id="data_loading" src="{% static 'img/gif.gif' %}" width="100" style="display: none;"> 
+    <div id="loading_save" class="well well-sm" style="display: none;">Data Saved</div>
+  <p>
+  Session: {{session}}<br>
+  Class: {{myclass}}<br>
+  Subject: {{subject}}<br>
+  Term: {{term}}<br>
+
+
+
+
+  </p>
+  <table class="table table-condensed">
+    <thead>
+      <tr>
+        <th>Surname</th>
+        <th>Middle Name</th>
+        <th>First Name</th>
+        <th>Reg Number</th>
+        <th>1st Test</th>
+        <th>2nd Test</th>
+        <th>Exam</th>
+        <th>Average</th>
+        <th>Grade</th>
+        
+        <th></th>
+
+
+      </tr>
+    </thead>
+    <tbody>
+    {% for i in qs %}
+      <tr>
+        <td>{{i.student.surname}}</td>
+        <td>{{i.student.middle_name}}</td>
+        <td>{{i.student.first_name}}</td>
+        <td>{{i.student.Registration_Number}}</td>
+
+      </tr>
+    {% endfor %}
+
+
+    </tbody>
+
+
+  </table>
+
+
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% endblock %}

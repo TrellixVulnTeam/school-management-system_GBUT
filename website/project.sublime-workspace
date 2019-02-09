@@ -1153,7 +1153,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -1178,6 +1178,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"request.POST",
+			".create(",
+			"request.POST",
 			"img",
 			"4",
 			"Gallery",
@@ -1302,10 +1305,7 @@
 			"MATHEMATICS2011",
 			"label_10",
 			"label_10\\",
-			"label_10",
-			"connection",
-			"MainWindow",
-			"sender"
+			"label_10"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1341,7 +1341,7 @@
 	"groups":
 	[
 		{
-			"selected": 40,
+			"selected": 9,
 			"sheets":
 			[
 				{
@@ -1397,7 +1397,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -1425,7 +1425,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -1615,8 +1615,8 @@
 						"selection":
 						[
 							[
-								15422,
-								15430
+								5558,
+								5570
 							]
 						],
 						"settings":
@@ -1625,10 +1625,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 6716.0,
+						"translation.y": 2570.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -1984,7 +1984,7 @@
 						"translation.y": 233.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -2504,7 +2504,7 @@
 						"translation.y": 346.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -2533,7 +2533,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -2750,7 +2750,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 286.0,
+	"side_bar_width": 282.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

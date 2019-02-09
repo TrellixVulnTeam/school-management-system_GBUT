@@ -1,0 +1,28 @@
+{% extends 'administrator/base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block text %}
+<div class="row">
+<div class="col-sm-6 col-sm-offset-3">
+	
+		{% if messages %}
+		<ul class="messages">
+		{% for message in messages %}
+		<li class="{{ message.tags }} well">{{ message }}</li>
+		{% endfor %}
+		</ul>
+		{% endif %}
+
+
+<form method="POST" action="" enctype="multipart/form-data">{% csrf_token %}
+	{{form|crispy}}
+
+
+	<input type="submit">Post</button>
+</form>
+
+
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="cotainer">
+	<div class="row">
+		<div class="col-sm-6 col-sm-offset-3">
+			<img src="{{detail.image.url}}" alt="media">
+				<div class="social">
+				<a href="#"><i class="fa fa-twitter"></i></a>
+				<a href="#"><i class="fa fa-facebook"></i></a>
+				</div>
+
+			<p>
+				Title: {{detail.title}}
+			</p>
+			<p>
+				Date: {{detail.timestamp}}
+			</p>
+			<p>
+				{{detail.body|safe}}
+			</p>
+		</div>
+		
+	</div>
+	
+</div>
+
+{% endblock %}  

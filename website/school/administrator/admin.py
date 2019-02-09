@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Session, Myclass, Subject, Student, Term,Student_subject, CurrentSession, CurrentTerm, GeneralResult, GeneratePin, SchoolLogo,News
+from .models import Session, Myclass, Subject, Student, Term,Student_subject, CurrentSession, CurrentTerm, GeneralResult, GeneratePin, SchoolLogo,News, Gallery
 
 
 
@@ -11,6 +11,7 @@ admin.site.register(CurrentSession)
 admin.site.register(CurrentTerm)
 admin.site.register(SchoolLogo)
 admin.site.register(News)
+admin.site.register(Gallery)
 
 
 

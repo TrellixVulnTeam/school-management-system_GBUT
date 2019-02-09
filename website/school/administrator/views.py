@@ -1,8 +1,8 @@
 from django.shortcuts import render
 
-from .models import Session, Myclass, Student, Student_subject, Subject, Term, GeneralResult, CurrentSession, CurrentTerm, GeneralResult, GeneratePin, SchoolLogo, News
+from .models import Session, Myclass, Student, Student_subject, Subject, Term, GeneralResult, CurrentSession, CurrentTerm, GeneralResult, GeneratePin, SchoolLogo, News, Gallery
 
-from .forms import AddSessionForm, StudentForm, CurrentTermForm, CurrentSessionForm, CheckResultForm, NewsForm
+from .forms import AddSessionForm, StudentForm, CurrentTermForm, CurrentSessionForm, CheckResultForm, NewsForm, EditGeneralResultForm, GalleryForm
 
 from django.shortcuts import render, get_object_or_404, redirect
 
@@ -19,6 +19,7 @@ import string
 from random import choice 
 
 from django.contrib.auth.decorators import login_required
+from django.shortcuts import get_object_or_404
 
 
 
@@ -617,3 +618,50 @@ def select_student(request):
 		print(i)
 	context= {'qs':qs}
 	return render(request, 'administrator/student.html', context)
+
+
+def query_staff_check_result(request):
+	session = Session.objects.all()
+	term  = Term.objects.all()
+	context = {'session':session, 'term':term}
+	return render(request, 'administrator/query_staff_check_result.html', context)
+
+
+def staff_check_result(request):
+	session = request.POST.get('select_session')
+	term  = request.POST.get('select_term')
+	current_class = request.POST.get('select_class')
+	# print(session, term, current_class)
+
+	result = GeneralResult.objects.filter(current_session=session, current_term=term, current_class=current_class)
+	print(result)
+	context = {'session':session, 'term':term, 'current_class':current_class, 'result':result}
+	return render(request, 'administrator/staff_check_result.html', context)
+
+
+def edit_general_result(request, reg):
+
+	detail = GeneralResult.objects.get(Registration_Number=reg)
+	if request.method == 'POST':
+		form  = EditGeneralResultForm(request.POST or None, request.FILES or None, instance=detail)
+		if form.is_valid():
+			form.save()
+			return HttpResponse('saved')
+	else:
+		form = EditGeneralResultForm(request.POST or None, request.FILES or None, instance=detail)
+	context = {'form':form}
+	return render(request, "administrator/edit_general_result.html", context)
+
+def gallery(request):
+	if request.method == 'POST':
+		form  = GalleryForm(request.POST or None, request.FILES or None)
+		if form.is_valid():
+			form.save()
+			messages.success(request, 'saved')
+			return redirect('administrator:gallery')
+
+	else:
+		form = GalleryForm()
+	context = {'form':form}
+	return render(request, "administrator/gallery.html", context)
+

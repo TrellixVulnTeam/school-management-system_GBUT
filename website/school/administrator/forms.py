@@ -1,5 +1,5 @@
 from django import forms
-from .models import Session, Student, CurrentTerm, CurrentSession, News
+from .models import Session, Student, CurrentTerm, CurrentSession, News, GeneralResult, Gallery
 from ckeditor.widgets import CKEditorWidget
 #from ckeditor_uploader.widgets import CKEditorWidget, CKEditorUploadingWidget
 class AddSessionForm(forms.ModelForm):
@@ -37,10 +37,18 @@ class CheckResultForm(forms.Form):
 class NewsForm(forms.ModelForm):
 	class Meta:
 		model = News
-		fields = ['title', 'body', 'status']
+		fields = ['title', 'body', 'status', 'timestamp']
 		widgets = {
 		'body': CKEditorWidget()
 		}
 
 	
+class EditGeneralResultForm(forms.ModelForm):
+	class Meta:
+		model = GeneralResult
+		fields = ['average', 'grade', 'percentage', 'total_subject', 'position', 'active']
 
+class GalleryForm(forms.ModelForm):
+	class Meta:
+		model = Gallery
+		fields = ['image', 'body']

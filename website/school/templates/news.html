@@ -18,21 +18,23 @@
                     <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p> -->
                 </div>
     </header>
-
-
+    
     <!-- container -->
-    <section class="container">
+    <div class="container" style="margin-top: 30px;">
         <div class="row">
-            <!-- main content -->
-            <section class="col-sm-12 maincontent">
-                <h3>News</h3>
-               
-            </section>
-            <!-- /main -->
+            {% for i in detail %}
+            <a href="{% url 'index:news_detail' i.id %}">
+            <div class="col-sm-3">
+                 <img src="{{i.image.url}}" class="img-responsive" alt="bude.jpg" style=""><br>
+                 <p>{{i.title}}</p>
+                 <p>{{i.body|safe|truncatewords:30}}</p>
 
+            </div>
+            </a>
+            {% endfor %}
 
         </div>
-    </section>
+    </div>
     <!-- /container -->
 
 

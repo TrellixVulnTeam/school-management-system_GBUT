@@ -1,0 +1,17 @@
+{% extends 'administrator/base.html' %}
+{% load crispy_forms_tags %}
+{% block text %}
+
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+<center><h2>Edit Result</h2></center>
+<form method="post">
+	{% csrf_token %}
+	{{form|crispy}}
+
+
+	<button type="submit" class="btn btn-primary ">Go</button> 
+</form>	
+</div>
+</div>
+{% endblock %}

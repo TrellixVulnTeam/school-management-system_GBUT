@@ -13,6 +13,8 @@ urlpatterns = [
 	path('price/', views.price, name='price'),
 	path('news/', views.news, name='news'),
 	path('gallery/', views.gallery, name='gallery'),
+	path('gallery/', views.gallery, name='gallery'),
+	path('news_detail/<slug:id>/', views.news_detail, name='news_detail'),
 	
 
 

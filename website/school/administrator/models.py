@@ -1,7 +1,8 @@
 from django.db import models
 from django.utils.functional import cached_property
 from django.utils.text import slugify
-
+from django.utils import timezone
+import django
 
 class Session(models.Model):
 
@@ -158,15 +159,18 @@ class News(models.Model):
 	choices = (('published', 'published'), 
 		('draft', 'draft')
 		)
+
 	title = models.CharField(max_length=50)
+	image = models.FileField(default='media')
 	body = models.TextField()
 	status = models.CharField(max_length=15, choices=choices, default='published')
-	created = models.DateTimeField(auto_now_add = True)
-	updated = models.DateTimeField(auto_now = True)
+	timestamp = models.DateField(default=django.utils.timezone.now)
 	slug = models.SlugField()
 	def save(self, *args, **kwargs):
 		self.slug = slugify(self.title)
 		super (News, self).save(*args, **kwargs)
 	def __str__(self):
 		return self.slug
-
+class Gallery(models.Model):
+	image = models.FileField()
+	body = models.CharField(max_length=200)

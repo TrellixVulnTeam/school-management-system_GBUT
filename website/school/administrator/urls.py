@@ -41,6 +41,11 @@ urlpatterns = [
 	path('query_student_term/', views.query_student_term, name='query_student_term'),
 	path('change_student_term/', views.change_student_term, name='change_student_term'),
 	path('select_student/', views.select_student, name='select_student'),
+	path('query_staff_check_result/', views.query_staff_check_result, name='query_staff_check_result'),
+	path('staff_check_result/', views.staff_check_result, name='staff_check_result'),
+	path('edit_general_result/<slug:reg>', views.edit_general_result, name='edit_general_result'),
+
+	path('gallery/', views.gallery, name='gallery'),
 
 
 
